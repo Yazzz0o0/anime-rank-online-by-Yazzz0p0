@@ -1,0 +1,5166 @@
+[
+  {
+    "id": "jojo-s-bizarre-adventure--jotaro-kujo",
+    "name": "Jotaro Kujo",
+    "anime": "JoJo's Bizarre Adventure",
+    "version": "Part 3 (Stardust Crusaders)",
+    "image": "https://th.bing.com/th/id/R.84918a02e63d0eda0af0bb3b75af1b5c?rik=Mqo95suSH%2fItqw&pid=ImgRaw&r=0",
+    "description": "Utilisateur de Star Platinum, un Stand à puissance et précision extrêmes; peut brièvement arrêter le temps.",
+    "powers": [
+      "Star Platinum",
+      "précision surhumaine",
+      "arrêt du temps bref"
+    ],
+    "stats": {
+      "force": 88,
+      "speed": 91,
+      "abilities": 90,
+      "iq": 82,
+      "durability": 82
+    },
+    "statStatus": "estimate",
+    "confidence": "medium",
+    "sources": [
+      "https://jojo-portal.com/anime/"
+    ],
+    "notes": "Les faits décrits sont issus de la série/manga officiel. Les notes chiffrées sont des estimations comparatives pour le jeu, pas des statistiques canoniques."
+  },
+  {
+    "id": "jojo-s-bizarre-adventure--dio-brando",
+    "name": "Dio Brando",
+    "anime": "JoJo's Bizarre Adventure",
+    "version": "Part 3 (Stardust Crusaders)",
+    "image": "https://th.bing.com/th/id/R.a17e4012b87a2c9affedfc5b88b97c23?rik=LAAeuL2Dp%2bgKUQ&pid=ImgRaw&r=0",
+    "description": "The World",
+    "powers": [
+      "The World",
+      "arrêt du temps",
+      "vampirisme et régénération"
+    ],
+    "stats": {
+      "force": 85,
+      "speed": 85,
+      "abilities": 95,
+      "iq": 85,
+      "durability": 85
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "jujutsu-kaisen--satoru-gojo",
+    "name": "Satoru Gojo",
+    "anime": "Jujutsu Kaisen",
+    "version": "Arc Shibuya",
+    "image": "https://i.pinimg.com/originals/16/ff/96/16ff967f7f7d8f4880886794386d35fe.jpg",
+    "description": "Infini",
+    "powers": [
+      "Infini",
+      "Six Yeux",
+      "Vide Pourpre",
+      "Expansion de domaine"
+    ],
+    "stats": {
+      "force": 85,
+      "speed": 98,
+      "abilities": 100,
+      "iq": 85,
+      "durability": 80
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "jujutsu-kaisen--ryomen-sukuna",
+    "name": "Ryomen Sukuna",
+    "anime": "Jujutsu Kaisen",
+    "version": "Pleine puissance (20 doigts)",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8d40e9ca-1974-4a87-bbfa-165264db741b/dhl40pa-01422807-8ad9-401c-89eb-395f9e209f9f.png/v1/fill/w_1004,h_796/ryomen_sukuna__jujutsu_kaisen__render_by_soul151killer_dhl40pa-pre.png",
+    "description": "Démantèlement",
+    "powers": [
+      "Démantèlement",
+      "Cuisine",
+      "Sanctuaire malveillant"
+    ],
+    "stats": {
+      "force": 95,
+      "speed": 95,
+      "abilities": 100,
+      "iq": 90,
+      "durability": 92
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "death-note--light-yagami",
+    "name": "Light Yagami",
+    "anime": "Death Note",
+    "version": "Série complète",
+    "image": "https://static.wikia.nocookie.net/deathnote/images/0/05/299276.jpg/revision/latest/scale-to-width-down/1200?cb=20160609084120",
+    "description": "Death Note",
+    "powers": [
+      "Death Note",
+      "manipulation et stratégie"
+    ],
+    "stats": {
+      "force": 10,
+      "speed": 10,
+      "abilities": 70,
+      "iq": 98,
+      "durability": 10
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "death-note--l",
+    "name": "L",
+    "anime": "Death Note",
+    "version": "Série complète",
+    "image": "https://vignette.wikia.nocookie.net/vsbattles/images/7/76/Death_Note_L.png/revision/latest?cb=20170214211643",
+    "description": "Détective de génie",
+    "powers": [
+      "Détective de génie",
+      "déduction et analyse"
+    ],
+    "stats": {
+      "force": 10,
+      "speed": 20,
+      "abilities": 10,
+      "iq": 98,
+      "durability": 15
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "bleach--ichigo-kurosaki",
+    "name": "Ichigo Kurosaki",
+    "anime": "Bleach",
+    "version": "Guerre sanglante de mille ans",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.FTL0im4zo4XESD4LApqIbQHaLk?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Bankai",
+    "powers": [
+      "Bankai",
+      "Hollowfication",
+      "Getsuga Tenshō"
+    ],
+    "stats": {
+      "force": 88,
+      "speed": 90,
+      "abilities": 90,
+      "iq": 60,
+      "durability": 85
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "bleach--sosuke-aizen",
+    "name": "Sosuke Aizen",
+    "anime": "Bleach",
+    "version": "Arc Hueco Mundo",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.24YodWnQMZkLQA8BYK6e5QHaJx?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Kyōka Suigetsu",
+    "powers": [
+      "Kyōka Suigetsu",
+      "Hōgyoku",
+      "stratège"
+    ],
+    "stats": {
+      "force": 85,
+      "speed": 88,
+      "abilities": 98,
+      "iq": 97,
+      "durability": 88
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "frieren--frieren",
+    "name": "Frieren",
+    "anime": "Frieren",
+    "version": "Voyage vers Äura",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.AJi321wjkv6YgMhQ5OMlfwAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Magie offensive et de suppression de mana",
+    "powers": [
+      "Magie offensive et de suppression de mana",
+      "siècles d'expérience"
+    ],
+    "stats": {
+      "force": 35,
+      "speed": 55,
+      "abilities": 92,
+      "iq": 88,
+      "durability": 50
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "frieren--fern",
+    "name": "Fern",
+    "anime": "Frieren",
+    "version": "Après l'examen de mage",
+    "image": "https://i.ibb.co/Z6GKZ0LS/2db.png",
+    "description": "Zoltraak rapide",
+    "powers": [
+      "Zoltraak rapide",
+      "maîtrise du combat magique"
+    ],
+    "stats": {
+      "force": 25,
+      "speed": 50,
+      "abilities": 75,
+      "iq": 75,
+      "durability": 40
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "dragon-ball--son-goku",
+    "name": "Son Goku",
+    "anime": "Dragon Ball",
+    "version": "Z, fin de saga Boo",
+    "image": "https://th.bing.com/th/id/R.87fb480675fa01505b557e103a871cbb?rik=UcdsZG61B5ATCA&pid=ImgRaw&r=0",
+    "description": "Super Saiyan",
+    "powers": [
+      "Super Saiyan",
+      "Kaioken",
+      "Téléportation",
+      "Genkidama"
+    ],
+    "stats": {
+      "force": 95,
+      "speed": 95,
+      "abilities": 90,
+      "iq": 55,
+      "durability": 95
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "dragon-ball--vegeta",
+    "name": "Vegeta",
+    "anime": "Dragon Ball",
+    "version": "Z, fin de saga Boo",
+    "image": "https://i.pinimg.com/originals/1c/5b/96/1c5b96980da81bf74f21aa8c5bd7c651.png",
+    "description": "Super Saiyan",
+    "powers": [
+      "Super Saiyan",
+      "Final Flash",
+      "combat fier et tactique"
+    ],
+    "stats": {
+      "force": 92,
+      "speed": 92,
+      "abilities": 85,
+      "iq": 75,
+      "durability": 92
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "naruto--naruto-uzumaki",
+    "name": "Naruto Uzumaki",
+    "anime": "Naruto",
+    "version": "Shippuden, Quatrième Grande Guerre",
+    "image": "https://th.bing.com/th/id/R.bd9f9ea58a333fdf5efe6036a98bd2fa?rik=5BscTtZdHTipXA&pid=ImgRaw&r=0",
+    "description": "Mode Sage",
+    "powers": [
+      "Mode Sage",
+      "Kyūbi",
+      "Rasengan",
+      "clones de l'ombre"
+    ],
+    "stats": {
+      "force": 90,
+      "speed": 92,
+      "abilities": 96,
+      "iq": 70,
+      "durability": 90
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "naruto--itachi-uchiha",
+    "name": "Itachi Uchiha",
+    "anime": "Naruto",
+    "version": "Shippuden",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.9xNHIy3DChHaGlEdyqrpUwHaQW?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Sharingan",
+    "powers": [
+      "Sharingan",
+      "Tsukuyomi",
+      "Amaterasu",
+      "Susanoo"
+    ],
+    "stats": {
+      "force": 65,
+      "speed": 88,
+      "abilities": 95,
+      "iq": 95,
+      "durability": 60
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "one-piece--monkey-d-luffy",
+    "name": "Monkey D. Luffy",
+    "anime": "One Piece",
+    "version": "Arc Wano (Gear 5)",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/71bd4b4f-ffa4-43db-afa4-cbd1a788d388/dgaw2ki-3398b6cb-6be3-43f9-999c-9c5ff98204c2.png",
+    "description": "Corps de caoutchouc",
+    "powers": [
+      "Corps de caoutchouc",
+      "Haki",
+      "Gear 5"
+    ],
+    "stats": {
+      "force": 93,
+      "speed": 90,
+      "abilities": 94,
+      "iq": 45,
+      "durability": 95
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "one-piece--roronoa-zoro",
+    "name": "Roronoa Zoro",
+    "anime": "One Piece",
+    "version": "Arc Wano",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.GCS0-GV-WnoSZoGTAGrc9QHaIn?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Trois sabres",
+    "powers": [
+      "Trois sabres",
+      "Haki des 3 types",
+      "Enma"
+    ],
+    "stats": {
+      "force": 88,
+      "speed": 88,
+      "abilities": 82,
+      "iq": 50,
+      "durability": 88
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "demon-slayer-kimetsu-no-yaiba--tanjiro-kamado",
+    "name": "Tanjiro Kamado",
+    "anime": "Demon Slayer (Kimetsu no Yaiba)",
+    "version": "Arc du Village des forgerons",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.3Nk9oSPu4-bEFGQDt9XovQHaQB?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Respiration du Soleil",
+    "powers": [
+      "Respiration du Soleil",
+      "odorat aiguisé",
+      "Marque du pourfendeur"
+    ],
+    "stats": {
+      "force": 65,
+      "speed": 75,
+      "abilities": 75,
+      "iq": 60,
+      "durability": 65
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "demon-slayer-kimetsu-no-yaiba--kyojuro-rengoku",
+    "name": "Kyojuro Rengoku",
+    "anime": "Demon Slayer (Kimetsu no Yaiba)",
+    "version": "Pilier de la Flamme",
+    "image": "https://tse1.explicit.bing.net/th/id/OIP.LQ5bEI4Kmb_AOyAQK6pxngHaNK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Respiration de la Flamme",
+    "powers": [
+      "Respiration de la Flamme"
+    ],
+    "stats": {
+      "force": 70,
+      "speed": 78,
+      "abilities": 70,
+      "iq": 55,
+      "durability": 70
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "sword-art-online-sao--kirito",
+    "name": "Kirito",
+    "anime": "Sword Art Online (SAO)",
+    "version": "Alfheim / Underworld",
+    "image": "https://www.xtrafondos.com/wallpapers/vertical/kirito-sword-art-online-3075.jpg",
+    "description": "Double lame",
+    "powers": [
+      "Double lame",
+      "Starburst Stream",
+      "réflexes de joueur"
+    ],
+    "stats": {
+      "force": 60,
+      "speed": 80,
+      "abilities": 65,
+      "iq": 70,
+      "durability": 50
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "call-of-the-night--nazuna-nanakusa",
+    "name": "Nazuna Nanakusa",
+    "anime": "Call of the Night",
+    "version": "Série",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.cxYM69jFQd82QM_ra0aEnQHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Vampire : vol",
+    "powers": [
+      "Vampire : vol",
+      "régénération",
+      "métamorphose",
+      "charme"
+    ],
+    "stats": {
+      "force": 60,
+      "speed": 75,
+      "abilities": 85,
+      "iq": 70,
+      "durability": 85
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "call-of-the-night--kou-yamori",
+    "name": "Kou Yamori",
+    "anime": "Call of the Night",
+    "version": "Série",
+    "image": "https://cdn.rafled.com/anime-icons/images/5e4b8331bc238febdd63cd85911ca411ab0f4314d29bb9fe5e0980b35371e243.jpg",
+    "description": "Humain devenu apprenti vampire",
+    "powers": [
+      "Humain devenu apprenti vampire",
+      "lucidité"
+    ],
+    "stats": {
+      "force": 20,
+      "speed": 30,
+      "abilities": 20,
+      "iq": 50,
+      "durability": 20
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "my-dress-up-darling--marin-kitagawa",
+    "name": "Marin Kitagawa",
+    "anime": "My Dress-Up Darling",
+    "version": "Série",
+    "image": "https://i.pinimg.com/originals/b5/bd/43/b5bd433a48401666c43ec1590412fdb6.jpg",
+    "description": "Cosplay",
+    "powers": [
+      "Cosplay",
+      "énergie sociale",
+      "détermination"
+    ],
+    "stats": {
+      "force": 10,
+      "speed": 20,
+      "abilities": 15,
+      "iq": 55,
+      "durability": 15
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "my-dress-up-darling--wakana-gojo",
+    "name": "Wakana Gojo",
+    "anime": "My Dress-Up Darling",
+    "version": "Série",
+    "image": "https://tse1.explicit.bing.net/th/id/OIP.7Ron5babhU4qxSXJUygmDAHaIb?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Fabrication de costumes et de têtes de hina",
+    "powers": [
+      "Fabrication de costumes et de têtes de hina",
+      "minutie"
+    ],
+    "stats": {
+      "force": 10,
+      "speed": 15,
+      "abilities": 25,
+      "iq": 60,
+      "durability": 15
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "one-punch-man--saitama",
+    "name": "Saitama",
+    "anime": "One-Punch Man",
+    "version": "Série",
+    "image": "https://th.bing.com/th/id/R.841037e2683a7d04313cf13d2a3d9149?rik=mKwODU987mk9rQ&pid=ImgRaw&r=0",
+    "description": "Un coup suffit",
+    "powers": [
+      "Un coup suffit",
+      "entraînement absurde"
+    ],
+    "stats": {
+      "force": 100,
+      "speed": 98,
+      "abilities": 55,
+      "iq": 45,
+      "durability": 100
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "one-punch-man--genos",
+    "name": "Genos",
+    "anime": "One-Punch Man",
+    "version": "Saison 2",
+    "image": "https://static.wikia.nocookie.net/onepunchman/images/f/f9/Anime_-_Genos.png/revision/latest?cb=20200323001610&path-prefix=es",
+    "description": "Cyborg",
+    "powers": [
+      "Cyborg",
+      "incinération",
+      "modules d'attaque"
+    ],
+    "stats": {
+      "force": 70,
+      "speed": 75,
+      "abilities": 75,
+      "iq": 75,
+      "durability": 65
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "attack-on-titan-l-attaque-des-titans--eren-yeager",
+    "name": "Eren Yeager",
+    "anime": "Attack on Titan (L'Attaque des Titans)",
+    "version": "Titan Fondateur (Grondement)",
+    "image": "https://i1.sndcdn.com/avatars-VMPBCJkijXkoBasK-rUkvBQ-t500x500.jpg",
+    "description": "Titan Fondateur",
+    "powers": [
+      "Titan Fondateur",
+      "Piétinement de la Terre"
+    ],
+    "stats": {
+      "force": 98,
+      "speed": 50,
+      "abilities": 95,
+      "iq": 75,
+      "durability": 95
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "attack-on-titan-l-attaque-des-titans--levi-ackerman",
+    "name": "Levi Ackerman",
+    "anime": "Attack on Titan (L'Attaque des Titans)",
+    "version": "Saison finale",
+    "image": "https://vignette.wikia.nocookie.net/shingekinokyojin/images/2/2d/Levi_Ackermann_(Anime).png/revision/latest?cb=20180915113846&path-prefix=de",
+    "description": "Équipement tridimensionnel",
+    "powers": [
+      "Équipement tridimensionnel",
+      "escrime de Capitaine"
+    ],
+    "stats": {
+      "force": 68,
+      "speed": 90,
+      "abilities": 55,
+      "iq": 80,
+      "durability": 55
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "fullmetal-alchemist-brotherhood--edward-elric",
+    "name": "Edward Elric",
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "version": "Série",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.2qU62B1XTHizLyJ1WESzGwAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Alchimie sans cercle",
+    "powers": [
+      "Alchimie sans cercle",
+      "automail"
+    ],
+    "stats": {
+      "force": 60,
+      "speed": 70,
+      "abilities": 85,
+      "iq": 90,
+      "durability": 55
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "fullmetal-alchemist-brotherhood--roy-mustang",
+    "name": "Roy Mustang",
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "version": "Série",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.quo9ZybCfQVS8fAXfTR_WAHaGi?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Alchimie de la flamme",
+    "powers": [
+      "Alchimie de la flamme"
+    ],
+    "stats": {
+      "force": 55,
+      "speed": 60,
+      "abilities": 88,
+      "iq": 80,
+      "durability": 55
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "hunter-x-hunter-2011--gon-freecss",
+    "name": "Gon Freecss",
+    "anime": "Hunter x Hunter (2011)",
+    "version": "Arc Fourmis-Chimères (Gon adulte)",
+    "image": "https://wallpapercg.com/download/gon-freecss-4k-3840x2743-11472.jpg",
+    "description": "Nen de renforcement",
+    "powers": [
+      "Nen de renforcement",
+      "Jajanken"
+    ],
+    "stats": {
+      "force": 80,
+      "speed": 80,
+      "abilities": 80,
+      "iq": 60,
+      "durability": 70
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "hunter-x-hunter-2011--killua-zoldyck",
+    "name": "Killua Zoldyck",
+    "anime": "Hunter x Hunter (2011)",
+    "version": "Arc Fourmis-Chimères",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.tdHq5i5on2n5EZDMSTZBMwHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Nen électrique",
+    "powers": [
+      "Nen électrique",
+      "Godspeed",
+      "assassin formé"
+    ],
+    "stats": {
+      "force": 65,
+      "speed": 92,
+      "abilities": 80,
+      "iq": 85,
+      "durability": 65
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "death-parade--decim",
+    "name": "Decim",
+    "anime": "Death Parade",
+    "version": "Série",
+    "image": "https://tse4.mm.bing.net/th/id/OIP._0hMSYQ1ItZQZV2xedbGXgHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Arbitre des âmes",
+    "powers": [
+      "Arbitre des âmes",
+      "manipulation psychologique"
+    ],
+    "stats": {
+      "force": 30,
+      "speed": 40,
+      "abilities": 75,
+      "iq": 80,
+      "durability": 40
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "fate-zero--saber-artoria-pendragon",
+    "name": "Saber (Artoria Pendragon)",
+    "anime": "Fate/Zero",
+    "version": "Quatrième Guerre du Graal",
+    "image": "https://i.pinimg.com/736x/fd/99/82/fd9982745715d67b9456a7f9c28ee1b9.jpg",
+    "description": "Excalibur",
+    "powers": [
+      "Excalibur",
+      "Invisible Air",
+      "Servant Saber"
+    ],
+    "stats": {
+      "force": 85,
+      "speed": 88,
+      "abilities": 85,
+      "iq": 75,
+      "durability": 78
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "fate-zero--kiritsugu-emiya",
+    "name": "Kiritsugu Emiya",
+    "anime": "Fate/Zero",
+    "version": "Quatrième Guerre du Graal",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.QSk6YJ3V0n-I9se0AJlY1gHaJ4?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Magecraft temporel",
+    "powers": [
+      "Magecraft temporel",
+      "Origine Bullet",
+      "tacticien"
+    ],
+    "stats": {
+      "force": 30,
+      "speed": 50,
+      "abilities": 60,
+      "iq": 90,
+      "durability": 35
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "monster--johan-liebert",
+    "name": "Johan Liebert",
+    "anime": "Monster",
+    "version": "Série",
+    "image": "https://i.pinimg.com/originals/1f/8c/5a/1f8c5a2e208e634986fab60f3e7b6aa4.jpg",
+    "description": "Manipulation psychologique extrême",
+    "powers": [
+      "Manipulation psychologique extrême"
+    ],
+    "stats": {
+      "force": 10,
+      "speed": 15,
+      "abilities": 15,
+      "iq": 98,
+      "durability": 20
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "monster--kenzo-tenma",
+    "name": "Kenzo Tenma",
+    "anime": "Monster",
+    "version": "Série",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.zh9-njybv4LYiLCAAAd2uwHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Chirurgien exceptionnel",
+    "powers": [
+      "Chirurgien exceptionnel",
+      "détermination morale"
+    ],
+    "stats": {
+      "force": 10,
+      "speed": 20,
+      "abilities": 15,
+      "iq": 65,
+      "durability": 20
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "code-geass-lelouch-of-the-rebellion--lelouch-lamperouge",
+    "name": "Lelouch Lamperouge",
+    "anime": "Code Geass: Lelouch of the Rebellion",
+    "version": "Série",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.YyBv797vn7ZlytfzZwEAowHaF7?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Geass d'obéissance absolue",
+    "powers": [
+      "Geass d'obéissance absolue",
+      "stratège"
+    ],
+    "stats": {
+      "force": 15,
+      "speed": 20,
+      "abilities": 80,
+      "iq": 98,
+      "durability": 15
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "kakegurui--yumeko-jabami",
+    "name": "Yumeko Jabami",
+    "anime": "Kakegurui",
+    "version": "Série",
+    "image": "https://tse3.mm.bing.net/th/id/OIP._DLUt_RJYefcSYDCncxZlgHaEc?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Joueuse prodige",
+    "powers": [
+      "Joueuse prodige",
+      "lecture de l'adversaire"
+    ],
+    "stats": {
+      "force": 15,
+      "speed": 25,
+      "abilities": 20,
+      "iq": 92,
+      "durability": 15
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "no-game-no-life--sora",
+    "name": "Sora",
+    "anime": "No Game No Life",
+    "version": "Série",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.A-kTfkKe6AFzXBT-14vHdQHaEL?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Duo « Blank »",
+    "powers": [
+      "Duo « Blank »",
+      "stratégie et bluff"
+    ],
+    "stats": {
+      "force": 10,
+      "speed": 15,
+      "abilities": 30,
+      "iq": 98,
+      "durability": 10
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "chainsaw-man--denji",
+    "name": "Denji",
+    "anime": "Chainsaw Man",
+    "version": "Partie 1",
+    "image": "https://images.wallpapersden.com/image/download/anime-chainsaw-man-hd-denji-fanart_bWxuaWuUmZqaraWkpJRnaW5rrWZqaGs.jpg",
+    "description": "Homme-tronçonneuse",
+    "powers": [
+      "Homme-tronçonneuse",
+      "régénération par le sang"
+    ],
+    "stats": {
+      "force": 60,
+      "speed": 60,
+      "abilities": 70,
+      "iq": 35,
+      "durability": 85
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "chainsaw-man--makima",
+    "name": "Makima",
+    "anime": "Chainsaw Man",
+    "version": "Partie 1",
+    "image": "https://images.wallpapersden.com/image/download/makima-hd-chainsaw-man-digital_bWxnam6UmZqaraWkpJRnZm5mrWZsamg.jpg",
+    "description": "Diable du Contrôle",
+    "powers": [
+      "Diable du Contrôle",
+      "immortalité apparente"
+    ],
+    "stats": {
+      "force": 30,
+      "speed": 50,
+      "abilities": 98,
+      "iq": 95,
+      "durability": 90
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "hell-s-paradise-jigokuraku--gabimaru",
+    "name": "Gabimaru",
+    "anime": "Hell's Paradise (Jigokuraku)",
+    "version": "Série",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.sCp7odlGcFwM8oCbz5YNuAHaE5?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Ninja",
+    "powers": [
+      "Ninja",
+      "Tao",
+      "régénération partielle"
+    ],
+    "stats": {
+      "force": 75,
+      "speed": 85,
+      "abilities": 75,
+      "iq": 70,
+      "durability": 75
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "noragami--yato",
+    "name": "Yato",
+    "anime": "Noragami",
+    "version": "Série",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.PqFHxRyQWZHYZSt6UaZfsgHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Dieu errant",
+    "powers": [
+      "Dieu errant",
+      "Sekki",
+      "Regalia"
+    ],
+    "stats": {
+      "force": 65,
+      "speed": 80,
+      "abilities": 78,
+      "iq": 55,
+      "durability": 65
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "mushoku-tensei-jobless-reincarnation--rudeus-greyrat",
+    "name": "Rudeus Greyrat",
+    "anime": "Mushoku Tensei: Jobless Reincarnation",
+    "version": "Arc Continent démon",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.YcAZ3G-8GGtSdJ6CoL1GLwHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Magie sans incantation",
+    "powers": [
+      "Magie sans incantation",
+      "polyvalence magique"
+    ],
+    "stats": {
+      "force": 40,
+      "speed": 50,
+      "abilities": 88,
+      "iq": 80,
+      "durability": 45
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "made-in-abyss--reg",
+    "name": "Reg",
+    "anime": "Made in Abyss",
+    "version": "Série",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.9qboAp2i1Zr7jo0t4JA_OQHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Robot",
+    "powers": [
+      "Robot",
+      "Incinérateur",
+      "bras extensibles"
+    ],
+    "stats": {
+      "force": 55,
+      "speed": 45,
+      "abilities": 60,
+      "iq": 50,
+      "durability": 75
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "made-in-abyss--bondrewd",
+    "name": "Bondrewd",
+    "anime": "Made in Abyss",
+    "version": "Série",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.uvlBze8pUfL1clfmGiZCmAHaGL?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Cradle",
+    "powers": [
+      "Cradle",
+      "science de l'Abysse",
+      "résistance aux malédictions"
+    ],
+    "stats": {
+      "force": 65,
+      "speed": 60,
+      "abilities": 85,
+      "iq": 90,
+      "durability": 85
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "black-clover--asta",
+    "name": "Asta",
+    "anime": "Black Clover",
+    "version": "Arc Royaume de Cœur",
+    "image": "https://th.bing.com/th/id/R.1fd0209ca26e69e983ebeb6cbd0a7629?rik=r9aaWaoneG0jjg&pid=ImgRaw&r=0",
+    "description": "Anti-magie",
+    "powers": [
+      "Anti-magie",
+      "Mode Démon",
+      "endurance"
+    ],
+    "stats": {
+      "force": 85,
+      "speed": 85,
+      "abilities": 80,
+      "iq": 35,
+      "durability": 90
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "black-clover--yuno",
+    "name": "Yuno",
+    "anime": "Black Clover",
+    "version": "Arc Royaume de Cœur",
+    "image": "https://wallpapercave.com/wp/wp4468530.jpg",
+    "description": "Magie du vent",
+    "powers": [
+      "Magie du vent",
+      "esprit Sylphe"
+    ],
+    "stats": {
+      "force": 55,
+      "speed": 75,
+      "abilities": 90,
+      "iq": 65,
+      "durability": 55
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "my-hero-academia--izuku-midoriya",
+    "name": "Izuku Midoriya",
+    "anime": "My Hero Academia",
+    "version": "Guerre de libération",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.yAFdFtue8FAvV3-TQ7glIAHaNK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "One For All (100 %)",
+    "powers": [
+      "One For All (100 %)",
+      "Black Whip",
+      "Fa Jin"
+    ],
+    "stats": {
+      "force": 85,
+      "speed": 88,
+      "abilities": 80,
+      "iq": 75,
+      "durability": 75
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "my-hero-academia--all-might",
+    "name": "All Might",
+    "anime": "My Hero Academia",
+    "version": "Apogée",
+    "image": "https://wallpapers.com/images/hd/all-might-my-hero-academia-iphone-xcx0lyrjtqydzlm9.jpg",
+    "description": "One For All à son apogée",
+    "powers": [
+      "One For All à son apogée"
+    ],
+    "stats": {
+      "force": 98,
+      "speed": 95,
+      "abilities": 75,
+      "iq": 70,
+      "durability": 92
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "my-hero-academia--katsuki-bakugo",
+    "name": "Katsuki Bakugo",
+    "anime": "My Hero Academia",
+    "version": "Guerre de libération",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.Pr4GMn8dRvEpHugVOBxUUAHaNK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Explosion",
+    "powers": [
+      "Explosion",
+      "combat instinctif et stratégique"
+    ],
+    "stats": {
+      "force": 75,
+      "speed": 80,
+      "abilities": 85,
+      "iq": 70,
+      "durability": 75
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "fire-force--shinra-kusakabe",
+    "name": "Shinra Kusakabe",
+    "anime": "Fire Force",
+    "version": "Série",
+    "image": "https://th.bing.com/th/id/OIP.On-UdlQ0NQCd66PI4fgVlQHaHa?w=175&h=180&c=7&r=0&o=7&pid=1.7&rm=3",
+    "description": "Manipulation de flammes aux pieds",
+    "powers": [
+      "Manipulation de flammes aux pieds",
+      "Adolla Burst"
+    ],
+    "stats": {
+      "force": 70,
+      "speed": 95,
+      "abilities": 85,
+      "iq": 60,
+      "durability": 70
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "world-trigger--osamu-mikumo",
+    "name": "Osamu Mikumo",
+    "anime": "World Trigger",
+    "version": "Série",
+    "image": "https://vignette.wikia.nocookie.net/worldtrigger/images/7/71/Osamu.jpg/revision/latest?cb=20150117165231",
+    "description": "Stratège de l'Agence Frontière",
+    "powers": [
+      "Stratège de l'Agence Frontière",
+      "Trion limité"
+    ],
+    "stats": {
+      "force": 15,
+      "speed": 30,
+      "abilities": 40,
+      "iq": 85,
+      "durability": 15
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "world-trigger--yuma-kuga",
+    "name": "Yuma Kuga",
+    "anime": "World Trigger",
+    "version": "Série",
+    "image": "https://wallpapercave.com/wp/wp8813833.jpg",
+    "description": "Black Trigger",
+    "powers": [
+      "Black Trigger",
+      "Neighbor"
+    ],
+    "stats": {
+      "force": 45,
+      "speed": 65,
+      "abilities": 75,
+      "iq": 55,
+      "durability": 55
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "baki--yujiro-hanma",
+    "name": "Yujiro Hanma",
+    "anime": "Baki",
+    "version": "Série principale",
+    "image": "https://th.bing.com/th/id/R.98a0f83c7cdb6061e719ff0ec54cca8f?rik=obHzKCw6iM3i8g&pid=ImgRaw&r=0",
+    "description": "Force surhumaine",
+    "powers": [
+      "Force surhumaine",
+      "résistance monstrueuse"
+    ],
+    "stats": {
+      "force": 100,
+      "speed": 90,
+      "abilities": 35,
+      "iq": 55,
+      "durability": 98
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "baki--baki-hanma",
+    "name": "Baki Hanma",
+    "anime": "Baki",
+    "version": "Série principale",
+    "image": "https://c.wallhere.com/photos/83/53/Baki_Hanma_anime_boys_muscled_legs_muscular_gym_rat_boxing_standing_fighting-2257000.jpg!d",
+    "description": "Combat à mains nues",
+    "powers": [
+      "Combat à mains nues",
+      "instinct de combat"
+    ],
+    "stats": {
+      "force": 85,
+      "speed": 88,
+      "abilities": 40,
+      "iq": 60,
+      "durability": 82
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "mob-psycho-100--shigeo-kageyama-mob",
+    "name": "Shigeo Kageyama (Mob)",
+    "anime": "Mob Psycho 100",
+    "version": "Mob 100 %, saison 3",
+    "image": "https://th.bing.com/th/id/R.a4f32c46e46ec184e22608ddd71a5649?rik=ipstfcM8MRya5w&pid=ImgRaw&r=0",
+    "description": "Pouvoirs psychiques",
+    "powers": [
+      "Pouvoirs psychiques",
+      "forme ???"
+    ],
+    "stats": {
+      "force": 85,
+      "speed": 75,
+      "abilities": 99,
+      "iq": 60,
+      "durability": 90
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "mob-psycho-100--arataka-reigen",
+    "name": "Arataka Reigen",
+    "anime": "Mob Psycho 100",
+    "version": "Série",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.j_oHp3HlY_dJnZi9ah6P-AHaIR?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Arnaques",
+    "powers": [
+      "Arnaques",
+      "charisme",
+      "persuasion"
+    ],
+    "stats": {
+      "force": 15,
+      "speed": 25,
+      "abilities": 20,
+      "iq": 85,
+      "durability": 15
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "jojo-s-bizarre-adventure--joseph-joestar",
+    "name": "Joseph Joestar",
+    "anime": "JoJo's Bizarre Adventure",
+    "version": "Part 2 (Battle Tendency)",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.dladH6VA9jw0oMLf5aADnAHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Utilisateur du Hamon, improvisateur et stratège qui privilégie la ruse.",
+    "powers": [
+      "Hamon",
+      "improvisation",
+      "stratégie",
+      " pièges"
+    ],
+    "stats": {
+      "force": 68,
+      "speed": 74,
+      "abilities": 82,
+      "iq": 94,
+      "durability": 68
+    },
+    "statStatus": "estimate",
+    "confidence": "medium",
+    "sources": [
+      "https://jojo-portal.com/anime/"
+    ],
+    "notes": "Les faits décrits sont issus de la série/manga officiel. Les notes chiffrées sont des estimations comparatives pour le jeu, pas des statistiques canoniques."
+  },
+  {
+    "id": "jojo-s-bizarre-adventure--giorno-giovanna",
+    "name": "Giorno Giovanna",
+    "anime": "JoJo's Bizarre Adventure",
+    "version": "Part 5 (Golden Wind)",
+    "image": "https://static.jojowiki.com/images/thumb/2/21/latest/20210313222135/Giorno_Giovanna_Infobox_Manga.png/640px-Giorno_Giovanna_Infobox_Manga.png",
+    "description": "Né Haruno Shiobana, il devient Giorno Giovanna; utilisateur de Gold Experience, qui donne la vie à des objets, puis de Gold Experience Requiem.",
+    "powers": [
+      "Gold Experience",
+      "création de vie",
+      "Gold Experience Requiem"
+    ],
+    "stats": {
+      "force": 77,
+      "speed": 84,
+      "abilities": 98,
+      "iq": 84,
+      "durability": 74
+    },
+    "statStatus": "estimate",
+    "confidence": "medium",
+    "sources": [
+      "https://jojo-portal.com/anime/"
+    ],
+    "notes": "Le nom de naissance Haruno Shiobana est canonique. Les notes chiffrées sont des estimations comparatives pour le jeu, pas des statistiques officielles du manga/anime."
+  },
+  {
+    "id": "jojo-s-bizarre-adventure--josuke-higashikata",
+    "name": "Josuke Higashikata",
+    "anime": "JoJo's Bizarre Adventure",
+    "version": "Part 4 (Diamond Is Unbreakable)",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.1kdnItExVVZIjVLGSYDOogHaKq?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Utilisateur de Crazy Diamond, capable de restaurer/réparer les personnes et les objets, mais pas de se soigner lui-même.",
+    "powers": [
+      "Crazy Diamond",
+      "restauration",
+      "combat rapproché"
+    ],
+    "stats": {
+      "force": 82,
+      "speed": 83,
+      "abilities": 89,
+      "iq": 73,
+      "durability": 77
+    },
+    "statStatus": "estimate",
+    "confidence": "medium",
+    "sources": [
+      "https://jojo-portal.com/anime/"
+    ],
+    "notes": "Les faits décrits sont issus de la série/manga officiel. Les notes chiffrées sont des estimations comparatives pour le jeu, pas des statistiques canoniques."
+  },
+  {
+    "id": "jujutsu-kaisen--yuji-itadori",
+    "name": "Yuji Itadori",
+    "anime": "Jujutsu Kaisen",
+    "version": "Arc Shibuya",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.x5GqNaTYKb4cMkQk9gpabgHaKg?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Vaisseau de Sukuna",
+    "powers": [
+      "Poings noirs",
+      "réceptacle de Sukuna"
+    ],
+    "stats": {
+      "force": 85,
+      "speed": 85,
+      "abilities": 60,
+      "iq": 50,
+      "durability": 85
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "jujutsu-kaisen--megumi-fushiguro",
+    "name": "Megumi Fushiguro",
+    "anime": "Jujutsu Kaisen",
+    "version": "Arc Shibuya",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.t8HbR9d9ddNBCY4SsrxpaQHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Technique des Dix Ombres",
+    "powers": [
+      "Dix Ombres",
+      "shikigami"
+    ],
+    "stats": {
+      "force": 55,
+      "speed": 70,
+      "abilities": 85,
+      "iq": 80,
+      "durability": 55
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "jujutsu-kaisen--nobara-kugisaki",
+    "name": "Nobara Kugisaki",
+    "anime": "Jujutsu Kaisen",
+    "version": "Arc Shibuya",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.JSM_jx8ocrSN1IOAQloaGgHaI6?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Poupée de paille",
+    "powers": [
+      "Technique de la poupée de paille",
+      "clous et marteau"
+    ],
+    "stats": {
+      "force": 50,
+      "speed": 60,
+      "abilities": 65,
+      "iq": 65,
+      "durability": 45
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "jujutsu-kaisen--suguru-geto",
+    "name": "Suguru Geto",
+    "anime": "Jujutsu Kaisen",
+    "version": "Série",
+    "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2023/02/jujutsu-kaisen-suguru-geto.jpg?q=50&fit=crop&w=292&h=384&dpr=1.5",
+    "description": "Manipulation d'esprits maudits",
+    "powers": [
+      "Manipulation d'esprits maudits",
+      "Uzumaki"
+    ],
+    "stats": {
+      "force": 55,
+      "speed": 65,
+      "abilities": 85,
+      "iq": 92,
+      "durability": 60
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "death-note--ryuk",
+    "name": "Ryuk",
+    "anime": "Death Note",
+    "version": "Série",
+    "image": "https://vignette.wikia.nocookie.net/villains/images/7/73/Ryuk_death_note_by_srmoro-d6j5fgs.jpg/revision/latest?cb=20170308040017",
+    "description": "Shinigami",
+    "powers": [
+      "Shinigami",
+      "vol",
+      "Death Note"
+    ],
+    "stats": {
+      "force": 50,
+      "speed": 70,
+      "abilities": 85,
+      "iq": 70,
+      "durability": 85
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "death-note--misa-amane",
+    "name": "Misa Amane",
+    "anime": "Death Note",
+    "version": "Série",
+    "image": "https://kawaii-mobile.com/wp-content/uploads/2011/06/Death-Note-Misa-Amane-2160x3840.jpg",
+    "description": "Yeux de Shinigami",
+    "powers": [
+      "Yeux de Shinigami",
+      "Death Note"
+    ],
+    "stats": {
+      "force": 10,
+      "speed": 15,
+      "abilities": 25,
+      "iq": 40,
+      "durability": 10
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "death-note--near",
+    "name": "Near",
+    "anime": "Death Note",
+    "version": "Série",
+    "image": "https://vignette.wikia.nocookie.net/deathnote/images/3/36/Near_-_Anime.png/revision/latest?cb=20190412215110&path-prefix=es",
+    "description": "Successeur de L",
+    "powers": [
+      "Déduction",
+      "stratégie"
+    ],
+    "stats": {
+      "force": 8,
+      "speed": 15,
+      "abilities": 10,
+      "iq": 95,
+      "durability": 10
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "bleach--rukia-kuchiki",
+    "name": "Rukia Kuchiki",
+    "anime": "Bleach",
+    "version": "Guerre sanglante de mille ans",
+    "image": "https://static.wikia.nocookie.net/bleach/images/c/c5/Ep320_Rukia_Mugshot.png/revision/latest/scale-to-width-down/1200?cb=20231105191903&path-prefix=en",
+    "description": "Sode no Shirayuki",
+    "powers": [
+      "Sode no Shirayuki",
+      "kidô"
+    ],
+    "stats": {
+      "force": 60,
+      "speed": 78,
+      "abilities": 82,
+      "iq": 70,
+      "durability": 60
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "bleach--uryu-ishida",
+    "name": "Uryu Ishida",
+    "anime": "Bleach",
+    "version": "Guerre sanglante de mille ans",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.OSAPGFP_DC3ykl5qV79bygHaFp?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Archer Quincy",
+    "powers": [
+      "Archerie Quincy",
+      "Hirenkyaku"
+    ],
+    "stats": {
+      "force": 55,
+      "speed": 82,
+      "abilities": 85,
+      "iq": 85,
+      "durability": 55
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "bleach--kisuke-urahara",
+    "name": "Kisuke Urahara",
+    "anime": "Bleach",
+    "version": "Série",
+    "image": "https://wallpapercrafter.com/desktop7/1802964-anime-bleach-Urahara-Kisuke-hd-art-1080P.jpg",
+    "description": "Benihime",
+    "powers": [
+      "Benihime",
+      "inventeur génial"
+    ],
+    "stats": {
+      "force": 75,
+      "speed": 90,
+      "abilities": 95,
+      "iq": 98,
+      "durability": 75
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "bleach--renji-abarai",
+    "name": "Renji Abarai",
+    "anime": "Bleach",
+    "version": "Guerre sanglante de mille ans",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.jRm5YPKvWspVtUspwlJsdQHaGq?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Zabimaru",
+    "powers": [
+      "Zabimaru",
+      "Bankai"
+    ],
+    "stats": {
+      "force": 82,
+      "speed": 82,
+      "abilities": 80,
+      "iq": 60,
+      "durability": 80
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "frieren--stark",
+    "name": "Stark",
+    "anime": "Frieren",
+    "version": "Série",
+    "image": "https://tse1.explicit.bing.net/th/id/OIP.VcllrQ2acsnfs41Kqd6t7QHaJA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Guerrier apprenti d'Eisen",
+    "powers": [
+      "Hache",
+      "courage"
+    ],
+    "stats": {
+      "force": 78,
+      "speed": 60,
+      "abilities": 45,
+      "iq": 50,
+      "durability": 75
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "frieren--himmel",
+    "name": "Himmel",
+    "anime": "Frieren",
+    "version": "Série",
+    "image": "https://dafunda.com/wp-content/uploads/2023/12/Fakta-Menarik-Himmel-Pemimpin-Party-Hero-di-Anime-Sousou-no-Frieren.jpg",
+    "description": "Le Héros",
+    "powers": [
+      "Épée du héros",
+      "leadership"
+    ],
+    "stats": {
+      "force": 75,
+      "speed": 78,
+      "abilities": 70,
+      "iq": 80,
+      "durability": 65
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "dragon-ball--gohan",
+    "name": "Gohan",
+    "anime": "Dragon Ball",
+    "version": "Z, saga Boo (Ultime)",
+    "image": "https://tse1.explicit.bing.net/th/id/OIP.EtaDa5q02k_0Z-0j4BWSRwHaJ5?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Potentiel caché",
+    "powers": [
+      "Super Saiyan 2",
+      "forme Ultime"
+    ],
+    "stats": {
+      "force": 92,
+      "speed": 92,
+      "abilities": 85,
+      "iq": 80,
+      "durability": 90
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "dragon-ball--piccolo",
+    "name": "Piccolo",
+    "anime": "Dragon Ball",
+    "version": "Z, saga Boo",
+    "image": "https://i.pinimg.com/474x/33/07/79/330779e9dc3ad292ba5c8bd4adf94a48.jpg?nii=t",
+    "description": "Namek",
+    "powers": [
+      "Régénération",
+      "Makankosappo"
+    ],
+    "stats": {
+      "force": 80,
+      "speed": 82,
+      "abilities": 82,
+      "iq": 85,
+      "durability": 82
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "dragon-ball--future-trunks",
+    "name": "Future Trunks",
+    "anime": "Dragon Ball",
+    "version": "Z, saga Cell",
+    "image": "https://wallpaperaccess.com/full/445336.jpg",
+    "description": "Épée et Super Saiyan",
+    "powers": [
+      "Super Saiyan",
+      "épée"
+    ],
+    "stats": {
+      "force": 85,
+      "speed": 88,
+      "abilities": 78,
+      "iq": 75,
+      "durability": 85
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "dragon-ball--frieza",
+    "name": "Frieza",
+    "anime": "Dragon Ball",
+    "version": "Z, forme finale",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.gB2Jwss4pdeuFpT12OddTAHaNK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Empereur de l'univers",
+    "powers": [
+      "Forme finale",
+      "Death Beam"
+    ],
+    "stats": {
+      "force": 90,
+      "speed": 92,
+      "abilities": 90,
+      "iq": 85,
+      "durability": 92
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "naruto--sasuke-uchiha",
+    "name": "Sasuke Uchiha",
+    "anime": "Naruto",
+    "version": "Shippuden, Quatrième Grande Guerre",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.4EPf0Kez2pKM05gcgboeywHaNK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Rinnegan",
+    "powers": [
+      "Sharingan",
+      "Rinnegan",
+      "Susanoo"
+    ],
+    "stats": {
+      "force": 88,
+      "speed": 92,
+      "abilities": 96,
+      "iq": 85,
+      "durability": 85
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "naruto--sakura-haruno",
+    "name": "Sakura Haruno",
+    "anime": "Naruto",
+    "version": "Shippuden",
+    "image": "https://cdn.suwalls.com/wallpapers/anime/sakura-haruno-naruto-34548-1920x1200.jpg",
+    "description": "Force monstrueuse",
+    "powers": [
+      "Force surhumaine",
+      "ninjutsu médical"
+    ],
+    "stats": {
+      "force": 78,
+      "speed": 70,
+      "abilities": 75,
+      "iq": 78,
+      "durability": 60
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "naruto--kakashi-hatake",
+    "name": "Kakashi Hatake",
+    "anime": "Naruto",
+    "version": "Shippuden",
+    "image": "https://i.pinimg.com/originals/f4/b8/a8/f4b8a80d9bf352603ef92cfe344c37f8.jpg",
+    "description": "Kamui",
+    "powers": [
+      "Sharingan",
+      "Kamui",
+      "Raikiri"
+    ],
+    "stats": {
+      "force": 70,
+      "speed": 88,
+      "abilities": 92,
+      "iq": 92,
+      "durability": 65
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "naruto--jiraiya",
+    "name": "Jiraiya",
+    "anime": "Naruto",
+    "version": "Shippuden",
+    "image": "https://tse1.explicit.bing.net/th/id/OIP.L_cTgJ4kyUlXt2gP42dKoAHaEz?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Sage des Crapauds",
+    "powers": [
+      "Mode Sage",
+      "Rasengan"
+    ],
+    "stats": {
+      "force": 75,
+      "speed": 80,
+      "abilities": 90,
+      "iq": 88,
+      "durability": 75
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "naruto--madara-uchiha",
+    "name": "Madara Uchiha",
+    "anime": "Naruto",
+    "version": "Quatrième Grande Guerre",
+    "image": "https://i.pinimg.com/originals/3d/54/18/3d54183e06a65ee57b3ca27dd330157d.jpg",
+    "description": "Rinnegan",
+    "powers": [
+      "Susanoo parfait",
+      "Mokuton",
+      "Météores"
+    ],
+    "stats": {
+      "force": 92,
+      "speed": 92,
+      "abilities": 100,
+      "iq": 95,
+      "durability": 95
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "one-piece--vinsmoke-sanji",
+    "name": "Vinsmoke Sanji",
+    "anime": "One Piece",
+    "version": "Arc Wano",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.29kfJt4pSqYiKwaO5wJ3OgHaNK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Black Leg",
+    "powers": [
+      "Black Leg",
+      "Diable Jambe"
+    ],
+    "stats": {
+      "force": 85,
+      "speed": 88,
+      "abilities": 78,
+      "iq": 55,
+      "durability": 80
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "one-piece--nami",
+    "name": "Nami",
+    "anime": "One Piece",
+    "version": "Arc Wano",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.88Z6iVh1o5Un74m_09Qi6AHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Clima-Tact",
+    "powers": [
+      "Clima-Tact",
+      "navigation"
+    ],
+    "stats": {
+      "force": 20,
+      "speed": 35,
+      "abilities": 45,
+      "iq": 75,
+      "durability": 25
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "one-piece--shanks",
+    "name": "Shanks",
+    "anime": "One Piece",
+    "version": "Série",
+    "image": "https://i.pinimg.com/736x/8c/65/6f/8c656f0d7e7fcb448f8deaa00904baf0.jpg",
+    "description": "Empereur",
+    "powers": [
+      "Haki des rois",
+      "sabre"
+    ],
+    "stats": {
+      "force": 90,
+      "speed": 90,
+      "abilities": 92,
+      "iq": 90,
+      "durability": 88
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "one-piece--trafalgar-d-water-law",
+    "name": "Trafalgar D. Water Law",
+    "anime": "One Piece",
+    "version": "Arc Wano",
+    "image": "https://i.pinimg.com/originals/91/f3/c4/91f3c42c363ebf21d10280ba3666a0b3.jpg",
+    "description": "Ope Ope no Mi",
+    "powers": [
+      "Ope Ope no Mi",
+      "Room"
+    ],
+    "stats": {
+      "force": 70,
+      "speed": 82,
+      "abilities": 95,
+      "iq": 92,
+      "durability": 65
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "one-piece--portgas-d-ace",
+    "name": "Portgas D. Ace",
+    "anime": "One Piece",
+    "version": "Marineford",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.X7qD17T1t_Fg-Ju6lylALwHaNK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Mera Mera no Mi",
+    "powers": [
+      "Mera Mera no Mi",
+      "Logia de feu"
+    ],
+    "stats": {
+      "force": 80,
+      "speed": 85,
+      "abilities": 88,
+      "iq": 60,
+      "durability": 85
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "demon-slayer-kimetsu-no-yaiba--nezuko-kamado",
+    "name": "Nezuko Kamado",
+    "anime": "Demon Slayer (Kimetsu no Yaiba)",
+    "version": "Arc du Village des forgerons",
+    "image": "https://th.bing.com/th/id/R.327cc0cd09c18008ee646f9780b5fa4f?rik=NyN8T0XnzF3h%2fw&pid=ImgRaw&r=0",
+    "description": "Démone",
+    "powers": [
+      "Régénération",
+      "sang explosif"
+    ],
+    "stats": {
+      "force": 70,
+      "speed": 75,
+      "abilities": 75,
+      "iq": 45,
+      "durability": 80
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "demon-slayer-kimetsu-no-yaiba--zenitsu-agatsuma",
+    "name": "Zenitsu Agatsuma",
+    "anime": "Demon Slayer (Kimetsu no Yaiba)",
+    "version": "Arc du Village des forgerons",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.5SYl5djNdApY3YwIuWIqPAHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Respiration de la Foudre",
+    "powers": [
+      "Respiration de la Foudre",
+      "Tonnerre et éclair"
+    ],
+    "stats": {
+      "force": 60,
+      "speed": 90,
+      "abilities": 70,
+      "iq": 50,
+      "durability": 55
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "demon-slayer-kimetsu-no-yaiba--inosuke-hashibira",
+    "name": "Inosuke Hashibira",
+    "anime": "Demon Slayer (Kimetsu no Yaiba)",
+    "version": "Arc du Village des forgerons",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.ASYO7_40sQJFIcsBzqRUlgHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Respiration de la Bête",
+    "powers": [
+      "Respiration de la Bête",
+      "sens du toucher"
+    ],
+    "stats": {
+      "force": 70,
+      "speed": 80,
+      "abilities": 60,
+      "iq": 35,
+      "durability": 70
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "demon-slayer-kimetsu-no-yaiba--giyu-tomioka",
+    "name": "Giyu Tomioka",
+    "anime": "Demon Slayer (Kimetsu no Yaiba)",
+    "version": "Pilier de l'Eau",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.KiDc8OAGh4M2BCldHu-ANwHaH0?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Respiration de l'Eau",
+    "powers": [
+      "Respiration de l'Eau",
+      "marque du pourfendeur"
+    ],
+    "stats": {
+      "force": 75,
+      "speed": 82,
+      "abilities": 70,
+      "iq": 65,
+      "durability": 70
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "demon-slayer-kimetsu-no-yaiba--muzan-kibutsuji",
+    "name": "Muzan Kibutsuji",
+    "anime": "Demon Slayer (Kimetsu no Yaiba)",
+    "version": "Série",
+    "image": "https://anibase.net/files/934fe8de1b7d2650b1fefcd60b413636",
+    "description": "Roi des démons",
+    "powers": [
+      "Régénération",
+      "manipulation du sang"
+    ],
+    "stats": {
+      "force": 85,
+      "speed": 95,
+      "abilities": 95,
+      "iq": 85,
+      "durability": 92
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "sword-art-online-sao--asuna-yuuki",
+    "name": "Asuna Yuuki",
+    "anime": "Sword Art Online (SAO)",
+    "version": "Alfheim",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.EJYm7Ux6AvflbCSO0mzxuQHaFo?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Rapière",
+    "powers": [
+      "Rapière",
+      "vitesse"
+    ],
+    "stats": {
+      "force": 55,
+      "speed": 90,
+      "abilities": 60,
+      "iq": 75,
+      "durability": 45
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "sword-art-online-sao--sinon",
+    "name": "Sinon",
+    "anime": "Sword Art Online (SAO)",
+    "version": "Gun Gale Online",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.Rcg_9rfi2SKi6B_sWc4TVAHaKy?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Tireuse d'élite",
+    "powers": [
+      "Sniper",
+      "Hecate II"
+    ],
+    "stats": {
+      "force": 45,
+      "speed": 60,
+      "abilities": 60,
+      "iq": 80,
+      "durability": 45
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "sword-art-online-sao--eugeo",
+    "name": "Eugeo",
+    "anime": "Sword Art Online (SAO)",
+    "version": "Underworld",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.DhPkZcoD_QwwzT2keXEz1QHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Épée Blue Rose",
+    "powers": [
+      "Blue Rose",
+      "arts divins"
+    ],
+    "stats": {
+      "force": 62,
+      "speed": 70,
+      "abilities": 60,
+      "iq": 55,
+      "durability": 55
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "sword-art-online-sao--alice-zuberg",
+    "name": "Alice Zuberg",
+    "anime": "Sword Art Online (SAO)",
+    "version": "Underworld",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.H6iRUXR3F_yHmfe-iNUELAHaJm?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Chevalier d'intégrité",
+    "powers": [
+      "Osmanthus",
+      "arts divins"
+    ],
+    "stats": {
+      "force": 78,
+      "speed": 80,
+      "abilities": 80,
+      "iq": 60,
+      "durability": 70
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "call-of-the-night--anko-uguisu",
+    "name": "Anko Uguisu",
+    "anime": "Call of the Night",
+    "version": "Série",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.h5l017-HTlzOlpPy3-VtlgHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Vampire",
+    "powers": [
+      "Vampire",
+      "vol"
+    ],
+    "stats": {
+      "force": 50,
+      "speed": 60,
+      "abilities": 65,
+      "iq": 60,
+      "durability": 65
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "call-of-the-night--akira-asai",
+    "name": "Akira Asai",
+    "anime": "Call of the Night",
+    "version": "Série",
+    "image": "https://th.bing.com/th/id/R.ae680d7fef96fc6f422278d4f57a0349?rik=P1AeETd%2bKn5MAg&pid=ImgRaw&r=0",
+    "description": "Humaine",
+    "powers": [
+      "Humaine",
+      "ténacité"
+    ],
+    "stats": {
+      "force": 20,
+      "speed": 30,
+      "abilities": 20,
+      "iq": 55,
+      "durability": 20
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "one-punch-man--garou",
+    "name": "Garou",
+    "anime": "One-Punch Man",
+    "version": "Série",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.JKp1jgz2T3HQmisGNg--vQHaNK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Chasseur de héros",
+    "powers": [
+      "Art du combat adaptatif",
+      "Cosmic Fear"
+    ],
+    "stats": {
+      "force": 95,
+      "speed": 94,
+      "abilities": 85,
+      "iq": 75,
+      "durability": 92
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "one-punch-man--tatsumaki",
+    "name": "Tatsumaki",
+    "anime": "One-Punch Man",
+    "version": "Série",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.uREUGmmHgh_PnbXftt638wHaKi?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Esper",
+    "powers": [
+      "Psychokinésie",
+      "vol"
+    ],
+    "stats": {
+      "force": 25,
+      "speed": 60,
+      "abilities": 98,
+      "iq": 80,
+      "durability": 40
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "one-punch-man--king",
+    "name": "King",
+    "anime": "One-Punch Man",
+    "version": "Série",
+    "image": "https://i.pinimg.com/originals/8b/b9/05/8bb9053402e0aafe676b816f6f2f524c.jpg",
+    "description": "Homme le plus fort",
+    "powers": [
+      "Engine King",
+      "bluff"
+    ],
+    "stats": {
+      "force": 12,
+      "speed": 10,
+      "abilities": 10,
+      "iq": 45,
+      "durability": 12
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "attack-on-titan-l-attaque-des-titans--mikasa-ackerman",
+    "name": "Mikasa Ackerman",
+    "anime": "Attack on Titan (L'Attaque des Titans)",
+    "version": "Série",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.5SSRTC4JVBv9uPCGUneJvgHaEo?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Ackerman",
+    "powers": [
+      "Équipement tridimensionnel",
+      "force Ackerman"
+    ],
+    "stats": {
+      "force": 75,
+      "speed": 88,
+      "abilities": 60,
+      "iq": 72,
+      "durability": 65
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "attack-on-titan-l-attaque-des-titans--armin-arlert",
+    "name": "Armin Arlert",
+    "anime": "Attack on Titan (L'Attaque des Titans)",
+    "version": "Série",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.YDP5AAO_TSj3He0k_bdu2QHaKe?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Titan Colossal",
+    "powers": [
+      "Stratégie",
+      "Titan Colossal"
+    ],
+    "stats": {
+      "force": 40,
+      "speed": 45,
+      "abilities": 70,
+      "iq": 95,
+      "durability": 40
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "attack-on-titan-l-attaque-des-titans--erwin-smith",
+    "name": "Erwin Smith",
+    "anime": "Attack on Titan (L'Attaque des Titans)",
+    "version": "Série",
+    "image": "https://aniyuki.com/wp-content/uploads/2021/12/aniyuki-erwin-smith-image-27.jpg",
+    "description": "Commandant",
+    "powers": [
+      "Stratégie",
+      "leadership"
+    ],
+    "stats": {
+      "force": 55,
+      "speed": 55,
+      "abilities": 25,
+      "iq": 95,
+      "durability": 50
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "attack-on-titan-l-attaque-des-titans--reiner-braun",
+    "name": "Reiner Braun",
+    "anime": "Attack on Titan (L'Attaque des Titans)",
+    "version": "Série",
+    "image": "https://tse1.explicit.bing.net/th/id/OIP.bWJE6EklvX-Y7Laffhh_SgHaHa?r=0&w=800&h=800&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Titan Blindé",
+    "powers": [
+      "Titan Blindé",
+      "endurance"
+    ],
+    "stats": {
+      "force": 82,
+      "speed": 60,
+      "abilities": 55,
+      "iq": 60,
+      "durability": 92
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "fullmetal-alchemist-brotherhood--alphonse-elric",
+    "name": "Alphonse Elric",
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "version": "Série",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.EpKnA83irj3nN7mWDawwmAHaFu?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Armure vivante",
+    "powers": [
+      "Alchimie sans cercle",
+      "armure"
+    ],
+    "stats": {
+      "force": 75,
+      "speed": 55,
+      "abilities": 85,
+      "iq": 85,
+      "durability": 70
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "fullmetal-alchemist-brotherhood--riza-hawkeye",
+    "name": "Riza Hawkeye",
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "version": "Série",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.l9o6OLZaUfFRK_P1ztlbIwHaH_?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Tireuse d'élite",
+    "powers": [
+      "Tir de précision",
+      "loyauté"
+    ],
+    "stats": {
+      "force": 45,
+      "speed": 70,
+      "abilities": 60,
+      "iq": 78,
+      "durability": 35
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "fullmetal-alchemist-brotherhood--greed",
+    "name": "Greed",
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "version": "Série",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.TIJUNLTEC6EsGaWkOPLvnwHaFj?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Bouclier ultime",
+    "powers": [
+      "Bouclier ultime",
+      "avidité"
+    ],
+    "stats": {
+      "force": 82,
+      "speed": 80,
+      "abilities": 72,
+      "iq": 60,
+      "durability": 92
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "fullmetal-alchemist-brotherhood--scar",
+    "name": "Scar",
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "version": "Série",
+    "image": "https://wallpapers.com/images/hd/fullmetal-alchemist-scar-1200-x-1296-wallpaper-xh6k391gs2ld5udb.jpg",
+    "description": "Alchimie de destruction",
+    "powers": [
+      "Alchimie de destruction",
+      "combat à mains nues"
+    ],
+    "stats": {
+      "force": 68,
+      "speed": 78,
+      "abilities": 75,
+      "iq": 75,
+      "durability": 60
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "hunter-x-hunter-2011--kurapika",
+    "name": "Kurapika",
+    "anime": "Hunter x Hunter (2011)",
+    "version": "Arc Yorknew",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.ZsnJ5ObweXQs0AKlYCSGHAHaE8?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Chaînes",
+    "powers": [
+      "Nen de chaînes",
+      "Yeux écarlates"
+    ],
+    "stats": {
+      "force": 55,
+      "speed": 78,
+      "abilities": 90,
+      "iq": 92,
+      "durability": 55
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "hunter-x-hunter-2011--leorio-paradinight",
+    "name": "Leorio Paradinight",
+    "anime": "Hunter x Hunter (2011)",
+    "version": "Série",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.ARH_aWAQBQGduVv-0vMY8gHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Futur médecin",
+    "powers": [
+      "Nen d'émission",
+      "combat"
+    ],
+    "stats": {
+      "force": 55,
+      "speed": 60,
+      "abilities": 50,
+      "iq": 70,
+      "durability": 60
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "hunter-x-hunter-2011--hisoka-morow",
+    "name": "Hisoka Morow",
+    "anime": "Hunter x Hunter (2011)",
+    "version": "Série",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.DP6hv3bGTSbLigcz2q0oQAHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Bungee Gum",
+    "powers": [
+      "Bungee Gum",
+      "Texture Surprise"
+    ],
+    "stats": {
+      "force": 78,
+      "speed": 85,
+      "abilities": 92,
+      "iq": 92,
+      "durability": 75
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "hunter-x-hunter-2011--chrollo-lucilfer",
+    "name": "Chrollo Lucilfer",
+    "anime": "Hunter x Hunter (2011)",
+    "version": "Série",
+    "image": "https://cdn.donmai.us/sample/c9/5a/__chrollo_lucilfer_hunter_x_hunter_drawn_by_yohane_yohane007__sample-c95a2706f996e7acfb15686823f15daf.jpg",
+    "description": "Skill Hunter",
+    "powers": [
+      "Skill Hunter",
+      "vol de Nen"
+    ],
+    "stats": {
+      "force": 70,
+      "speed": 80,
+      "abilities": 95,
+      "iq": 95,
+      "durability": 70
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "hunter-x-hunter-2011--meruem",
+    "name": "Meruem",
+    "anime": "Hunter x Hunter (2011)",
+    "version": "Série",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.2DOMuje_YI_u-bdDwbYH0QHaNK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Roi chimère",
+    "powers": [
+      "Régénération",
+      "force surhumaine"
+    ],
+    "stats": {
+      "force": 98,
+      "speed": 98,
+      "abilities": 92,
+      "iq": 92,
+      "durability": 98
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "death-parade--ginti",
+    "name": "Ginti",
+    "anime": "Death Parade",
+    "version": "Série",
+    "image": "https://wallpapers.com/images/hd/intense-moment-with-ginti-from-death-parade-rlybml21y0yvez1s.jpg",
+    "description": "Arbitre",
+    "powers": [
+      "Arbitre",
+      "jugement"
+    ],
+    "stats": {
+      "force": 25,
+      "speed": 35,
+      "abilities": 60,
+      "iq": 70,
+      "durability": 35
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "fate-zero--gilgamesh",
+    "name": "Gilgamesh",
+    "anime": "Fate/Zero",
+    "version": "Quatrième Guerre du Graal",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.fvE8evWs-4cqPtSMwezY6AHaKd?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Roi des Héros",
+    "powers": [
+      "Gate of Babylon",
+      "Ea"
+    ],
+    "stats": {
+      "force": 90,
+      "speed": 85,
+      "abilities": 100,
+      "iq": 85,
+      "durability": 88
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "fate-zero--kirei-kotomine",
+    "name": "Kirei Kotomine",
+    "anime": "Fate/Zero",
+    "version": "Quatrième Guerre du Graal",
+    "image": "https://www.superherodb.com/pictures2/portraits/10/050/27269.jpg?v=1615957011",
+    "description": "Prêtre",
+    "powers": [
+      "Arts martiaux",
+      "Clés noires"
+    ],
+    "stats": {
+      "force": 60,
+      "speed": 68,
+      "abilities": 70,
+      "iq": 85,
+      "durability": 65
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "fate-zero--rider-iskandar",
+    "name": "Rider (Iskandar)",
+    "anime": "Fate/Zero",
+    "version": "Quatrième Guerre du Graal",
+    "image": "https://tse1.explicit.bing.net/th/id/OIP.UiCBmv23BA4tUM9tNY1leAAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Roi des conquérants",
+    "powers": [
+      "Gordius Wheel",
+      "Ionioi Hetairoi"
+    ],
+    "stats": {
+      "force": 90,
+      "speed": 82,
+      "abilities": 95,
+      "iq": 80,
+      "durability": 90
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "monster--anna-liebert-nina-fortner",
+    "name": "Anna Liebert (Nina Fortner)",
+    "anime": "Monster",
+    "version": "Série",
+    "image": "https://th.bing.com/th/id/R.d95d2be6e9ff60dc3663602fd6eb4d94?rik=wZml7wyhoRMfUg&pid=ImgRaw&r=0",
+    "description": "Jumelle de Johan",
+    "powers": [
+      "Mémoire",
+      "détermination"
+    ],
+    "stats": {
+      "force": 8,
+      "speed": 10,
+      "abilities": 10,
+      "iq": 70,
+      "durability": 10
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "monster--inspector-lunge",
+    "name": "Inspector Lunge",
+    "anime": "Monster",
+    "version": "Série",
+    "image": "https://th.bing.com/th/id/R.80c36db2c7156528aaf1a4c9f6334cbd?rik=DjUViS6bjoyLdg&pid=ImgRaw&r=0",
+    "description": "Inspecteur",
+    "powers": [
+      "Mémoire exceptionnelle",
+      "déduction"
+    ],
+    "stats": {
+      "force": 20,
+      "speed": 35,
+      "abilities": 30,
+      "iq": 85,
+      "durability": 25
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "monster--wolfgang-grimmer",
+    "name": "Wolfgang Grimmer",
+    "anime": "Monster",
+    "version": "Série",
+    "image": "https://cdn-us.anidb.net/images/main/210539.jpg",
+    "description": "Ancien agent",
+    "powers": [
+      "Profilage",
+      "ancien agent secret"
+    ],
+    "stats": {
+      "force": 25,
+      "speed": 35,
+      "abilities": 25,
+      "iq": 80,
+      "durability": 30
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "code-geass-lelouch-of-the-rebellion--c-c",
+    "name": "C.C.",
+    "anime": "Code Geass: Lelouch of the Rebellion",
+    "version": "Série",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.5WR_8OlMMxdwMI9xpDTC7AHaGl?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Immortelle",
+    "powers": [
+      "Immortalité",
+      "Geass"
+    ],
+    "stats": {
+      "force": 25,
+      "speed": 50,
+      "abilities": 70,
+      "iq": 85,
+      "durability": 95
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "code-geass-lelouch-of-the-rebellion--suzaku-kururugi",
+    "name": "Suzaku Kururugi",
+    "anime": "Code Geass: Lelouch of the Rebellion",
+    "version": "Série",
+    "image": "https://th.bing.com/th/id/OIP.9WaljPJri5PBz12N_zRO0gHaJ5?w=153&h=205&c=7&r=0&o=7&pid=1.7&rm=3",
+    "description": "Chevalier de Britannia",
+    "powers": [
+      "Pilotage du Lancelot",
+      "combat rapproché"
+    ],
+    "stats": {
+      "force": 75,
+      "speed": 90,
+      "abilities": 65,
+      "iq": 70,
+      "durability": 70
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "code-geass-lelouch-of-the-rebellion--kallen-stadtfeld",
+    "name": "Kallen Stadtfeld",
+    "anime": "Code Geass: Lelouch of the Rebellion",
+    "version": "Série",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.PT0Wl1YEm00pQHSK_5s0FAHaFj?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Pilote du Guren",
+    "powers": [
+      "Pilotage du Guren",
+      "combat rapproché"
+    ],
+    "stats": {
+      "force": 65,
+      "speed": 85,
+      "abilities": 70,
+      "iq": 70,
+      "durability": 60
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "kakegurui--mary-saotome",
+    "name": "Mary Saotome",
+    "anime": "Kakegurui",
+    "version": "Série",
+    "image": "https://th.bing.com/th/id/OIP.VNZlE0kU6j2JdO4VCjFFygHaHa?r=0&o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Joueuse",
+    "powers": [
+      "Jeux d'argent",
+      "ténacité"
+    ],
+    "stats": {
+      "force": 10,
+      "speed": 20,
+      "abilities": 15,
+      "iq": 75,
+      "durability": 15
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "kakegurui--kirari-momobami",
+    "name": "Kirari Momobami",
+    "anime": "Kakegurui",
+    "version": "Série",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.bI2ZIajRtbz7xxgnQfRNxAHaNR?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Présidente du conseil",
+    "powers": [
+      "Jeux d'argent",
+      "manipulation"
+    ],
+    "stats": {
+      "force": 15,
+      "speed": 25,
+      "abilities": 25,
+      "iq": 98,
+      "durability": 20
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "no-game-no-life--shiro",
+    "name": "Shiro",
+    "anime": "No Game No Life",
+    "version": "Série",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.3JxEEy8g3E--JAqsU_B8SAHaNO?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Duo Blank",
+    "powers": [
+      "Calcul",
+      "stratégie"
+    ],
+    "stats": {
+      "force": 8,
+      "speed": 12,
+      "abilities": 20,
+      "iq": 99,
+      "durability": 8
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "no-game-no-life--jibril",
+    "name": "Jibril",
+    "anime": "No Game No Life",
+    "version": "Série",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.TF8vCg7shCTmRFGAvDLW4wHaHE?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Flügel",
+    "powers": [
+      "Magie des Flügel",
+      "vol"
+    ],
+    "stats": {
+      "force": 90,
+      "speed": 95,
+      "abilities": 99,
+      "iq": 88,
+      "durability": 92
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "chainsaw-man--power",
+    "name": "Power",
+    "anime": "Chainsaw Man",
+    "version": "Partie 1",
+    "image": "https://th.bing.com/th/id/R.c78d4fd1520b023907ccbc9a3e68b722?rik=LWfbej%2by0ePB3w&pid=ImgRaw&r=0",
+    "description": "Diable du Sang",
+    "powers": [
+      "Manipulation du sang",
+      "force"
+    ],
+    "stats": {
+      "force": 80,
+      "speed": 75,
+      "abilities": 85,
+      "iq": 40,
+      "durability": 85
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "chainsaw-man--aki-hayakawa",
+    "name": "Aki Hayakawa",
+    "anime": "Chainsaw Man",
+    "version": "Partie 1",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.ph-GeLJLdSxyY-6DDZPVmAHaLG?r=0&w=683&h=1024&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Diable Renard",
+    "powers": [
+      "Contrat",
+      "sabre"
+    ],
+    "stats": {
+      "force": 55,
+      "speed": 70,
+      "abilities": 75,
+      "iq": 70,
+      "durability": 55
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "chainsaw-man--kishibe",
+    "name": "Kishibe",
+    "anime": "Chainsaw Man",
+    "version": "Partie 1",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.4k32O8HC9HDaNJURIzlL2gHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Maître chasseur",
+    "powers": [
+      "Combat",
+      "chasse aux diables"
+    ],
+    "stats": {
+      "force": 80,
+      "speed": 85,
+      "abilities": 70,
+      "iq": 92,
+      "durability": 75
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "chainsaw-man--reze",
+    "name": "Reze",
+    "anime": "Chainsaw Man",
+    "version": "Partie 1",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.R_l0D2_GE9vuuTXCeQNWXQHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Diable Bombe",
+    "powers": [
+      "Diable Bombe",
+      "assassinat"
+    ],
+    "stats": {
+      "force": 70,
+      "speed": 92,
+      "abilities": 92,
+      "iq": 80,
+      "durability": 85
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "hell-s-paradise-jigokuraku--yamada-asaemon-sagiri",
+    "name": "Yamada Asaemon Sagiri",
+    "anime": "Hell's Paradise (Jigokuraku)",
+    "version": "Série",
+    "image": "https://i.pinimg.com/originals/b3/26/fe/b326fe281a854adcf8405619992daa60.jpg",
+    "description": "Exécutrice",
+    "powers": [
+      "Sabre",
+      "ténacité"
+    ],
+    "stats": {
+      "force": 60,
+      "speed": 78,
+      "abilities": 60,
+      "iq": 75,
+      "durability": 55
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "hell-s-paradise-jigokuraku--aza-chobei",
+    "name": "Aza Chobei",
+    "anime": "Hell's Paradise (Jigokuraku)",
+    "version": "Série",
+    "image": "https://i.pinimg.com/736x/38/af/54/38af546a53c7dce7a05fffc756db1689.jpg",
+    "description": "Condamné",
+    "powers": [
+      "Sabre",
+      "Tao"
+    ],
+    "stats": {
+      "force": 70,
+      "speed": 80,
+      "abilities": 75,
+      "iq": 75,
+      "durability": 70
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "hell-s-paradise-jigokuraku--yuzuriha",
+    "name": "Yuzuriha",
+    "anime": "Hell's Paradise (Jigokuraku)",
+    "version": "Série",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.BTAtnbApvJaPgTLeNCsizAHaFp?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Kunoichi",
+    "powers": [
+      "Kunoichi",
+      "Tao"
+    ],
+    "stats": {
+      "force": 55,
+      "speed": 80,
+      "abilities": 70,
+      "iq": 75,
+      "durability": 50
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "noragami--hiyori-iki",
+    "name": "Hiyori Iki",
+    "anime": "Noragami",
+    "version": "Série",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.AGsovckLHLP0vhS8KMIVtQHaFJ?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Humaine",
+    "powers": [
+      "Esprit détaché",
+      "courage"
+    ],
+    "stats": {
+      "force": 12,
+      "speed": 25,
+      "abilities": 15,
+      "iq": 55,
+      "durability": 15
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "noragami--yukine",
+    "name": "Yukine",
+    "anime": "Noragami",
+    "version": "Série",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.FYG7ocLQ-MmeL8Sb83mt1AHaHy?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Regalia",
+    "powers": [
+      "Regalia",
+      "lame"
+    ],
+    "stats": {
+      "force": 55,
+      "speed": 70,
+      "abilities": 80,
+      "iq": 55,
+      "durability": 50
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "noragami--bishamonten",
+    "name": "Bishamonten",
+    "anime": "Noragami",
+    "version": "Série",
+    "image": "https://wallpaperaccess.com/full/2219018.png",
+    "description": "Dieu du combat",
+    "powers": [
+      "Armes divines",
+      "Regalia"
+    ],
+    "stats": {
+      "force": 78,
+      "speed": 88,
+      "abilities": 85,
+      "iq": 80,
+      "durability": 80
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "mushoku-tensei-jobless-reincarnation--eris-boreas-greyrat",
+    "name": "Eris Boreas Greyrat",
+    "anime": "Mushoku Tensei: Jobless Reincarnation",
+    "version": "Série",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.RoTCw0iRlrh-u5kyoeSGaQHaLF?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Épéiste",
+    "powers": [
+      "Épée",
+      "volonté"
+    ],
+    "stats": {
+      "force": 82,
+      "speed": 85,
+      "abilities": 60,
+      "iq": 45,
+      "durability": 75
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "mushoku-tensei-jobless-reincarnation--sylphiette",
+    "name": "Sylphiette",
+    "anime": "Mushoku Tensei: Jobless Reincarnation",
+    "version": "Série",
+    "image": "https://i.pinimg.com/originals/8e/80/f7/8e80f7d24521b67f8e23b6531e5b9117.webp",
+    "description": "Magicienne",
+    "powers": [
+      "Magie de guérison",
+      "magie"
+    ],
+    "stats": {
+      "force": 30,
+      "speed": 50,
+      "abilities": 85,
+      "iq": 75,
+      "durability": 45
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "mushoku-tensei-jobless-reincarnation--roxy-migurdia",
+    "name": "Roxy Migurdia",
+    "anime": "Mushoku Tensei: Jobless Reincarnation",
+    "version": "Série",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.Z2mVepIg40wPucqFsx2iWAHaE7?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Magicienne",
+    "powers": [
+      "Magie de l'eau",
+      "enseignement"
+    ],
+    "stats": {
+      "force": 40,
+      "speed": 60,
+      "abilities": 92,
+      "iq": 85,
+      "durability": 50
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "mushoku-tensei-jobless-reincarnation--ruijerd-superdia",
+    "name": "Ruijerd Superdia",
+    "anime": "Mushoku Tensei: Jobless Reincarnation",
+    "version": "Série",
+    "image": "https://i.pinimg.com/736x/e8/d6/6d/e8d66daf2fbce642e7e7c8cb59e6dc06.jpg",
+    "description": "Guerrier Superd",
+    "powers": [
+      "Lance",
+      "guerrier"
+    ],
+    "stats": {
+      "force": 88,
+      "speed": 85,
+      "abilities": 70,
+      "iq": 80,
+      "durability": 85
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "made-in-abyss--riko",
+    "name": "Riko",
+    "anime": "Made in Abyss",
+    "version": "Série",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.URF3Wt7Pu91kRpvfLkqZ_gHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Exploratrice",
+    "powers": [
+      "Exploration",
+      "curiosité"
+    ],
+    "stats": {
+      "force": 40,
+      "speed": 50,
+      "abilities": 30,
+      "iq": 50,
+      "durability": 35
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "made-in-abyss--nanachi",
+    "name": "Nanachi",
+    "anime": "Made in Abyss",
+    "version": "Série",
+    "image": "https://i.pinimg.com/originals/c6/9d/1f/c69d1f88311fe5f2c1c01aec4e3c97d8.jpg",
+    "description": "Creux",
+    "powers": [
+      "Magie",
+      "créature des profondeurs"
+    ],
+    "stats": {
+      "force": 45,
+      "speed": 60,
+      "abilities": 70,
+      "iq": 60,
+      "durability": 60
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "black-clover--yami-sukehiro",
+    "name": "Yami Sukehiro",
+    "anime": "Black Clover",
+    "version": "Série",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.zdzjlvEFjWuPKb0GxBkCswHaIS?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Capitaine",
+    "powers": [
+      "Magie des ténèbres",
+      "Ki"
+    ],
+    "stats": {
+      "force": 92,
+      "speed": 88,
+      "abilities": 85,
+      "iq": 75,
+      "durability": 92
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "black-clover--noelle-silva",
+    "name": "Noelle Silva",
+    "anime": "Black Clover",
+    "version": "Série",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.nRg9MyW0NS84wAq9c6FoAgHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Magie de l'eau",
+    "powers": [
+      "Valkyrie",
+      "eau"
+    ],
+    "stats": {
+      "force": 55,
+      "speed": 65,
+      "abilities": 85,
+      "iq": 60,
+      "durability": 60
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "black-clover--julius-novachrono",
+    "name": "Julius Novachrono",
+    "anime": "Black Clover",
+    "version": "Série",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.3R0qHiG8hY_R9AfbqLxPcgHaGg?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Empereur-Mage",
+    "powers": [
+      "Magie du temps",
+      "magie"
+    ],
+    "stats": {
+      "force": 70,
+      "speed": 82,
+      "abilities": 100,
+      "iq": 92,
+      "durability": 70
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "my-hero-academia--shoto-todoroki",
+    "name": "Shoto Todoroki",
+    "anime": "My Hero Academia",
+    "version": "Guerre de libération",
+    "image": "https://i.postimg.cc/3NxVqCny/image-search-1617406541922.png",
+    "description": "Glace et feu",
+    "powers": [
+      "Glace",
+      "flammes"
+    ],
+    "stats": {
+      "force": 78,
+      "speed": 85,
+      "abilities": 92,
+      "iq": 85,
+      "durability": 78
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "my-hero-academia--endeavor",
+    "name": "Endeavor",
+    "anime": "My Hero Academia",
+    "version": "Guerre de libération",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.27ZAJmoY7jtLEnEvrNW52wHaMv?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Hellflame",
+    "powers": [
+      "Hellflame",
+      "Héros n°1"
+    ],
+    "stats": {
+      "force": 90,
+      "speed": 88,
+      "abilities": 90,
+      "iq": 75,
+      "durability": 88
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "my-hero-academia--tomura-shigaraki",
+    "name": "Tomura Shigaraki",
+    "anime": "My Hero Academia",
+    "version": "Guerre de libération",
+    "image": "https://i.pinimg.com/originals/a1/25/d7/a125d72eaad15099848f37bc6591fb2b.jpg",
+    "description": "Décomposition",
+    "powers": [
+      "Décomposition",
+      "All For One"
+    ],
+    "stats": {
+      "force": 85,
+      "speed": 80,
+      "abilities": 95,
+      "iq": 85,
+      "durability": 88
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "fire-force--arthur-boyle",
+    "name": "Arthur Boyle",
+    "anime": "Fire Force",
+    "version": "Série",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.fjaZoYGjfGuSxdL944490QHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Chevalier",
+    "powers": [
+      "Épée plasma",
+      "Excalibur"
+    ],
+    "stats": {
+      "force": 85,
+      "speed": 85,
+      "abilities": 75,
+      "iq": 35,
+      "durability": 80
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "fire-force--maki-oze",
+    "name": "Maki Oze",
+    "anime": "Fire Force",
+    "version": "Série",
+    "image": "https://i.pinimg.com/originals/31/bd/a2/31bda249b95f07ce21c43a012054c91f.jpg",
+    "description": "Pyrokinétique",
+    "powers": [
+      "Lance-flammes",
+      "tireuse"
+    ],
+    "stats": {
+      "force": 70,
+      "speed": 75,
+      "abilities": 60,
+      "iq": 60,
+      "durability": 65
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "fire-force--akitaru-obi",
+    "name": "Akitaru Obi",
+    "anime": "Fire Force",
+    "version": "Série",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.-ZRCjSvK1iwqcO2JHHxpwQHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Capitaine",
+    "powers": [
+      "Flammes",
+      "résistance"
+    ],
+    "stats": {
+      "force": 78,
+      "speed": 60,
+      "abilities": 60,
+      "iq": 60,
+      "durability": 85
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "fire-force--benimaru-shinmon",
+    "name": "Benimaru Shinmon",
+    "anime": "Fire Force",
+    "version": "Série",
+    "image": "https://static.wikia.nocookie.net/fire-brigade-of-flames/images/1/15/Benimaru_Shinmon.png/revision/latest?cb=20200702124829",
+    "description": "Lieutenant",
+    "powers": [
+      "Sabres",
+      "flammes"
+    ],
+    "stats": {
+      "force": 90,
+      "speed": 95,
+      "abilities": 92,
+      "iq": 70,
+      "durability": 90
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "world-trigger--chika-amatori",
+    "name": "Chika Amatori",
+    "anime": "World Trigger",
+    "version": "Série",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.9ANMhEPrjzYfSO17x98b0AHaHx?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Trion immense",
+    "powers": [
+      "Trion immense",
+      "courage"
+    ],
+    "stats": {
+      "force": 18,
+      "speed": 25,
+      "abilities": 60,
+      "iq": 35,
+      "durability": 30
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "world-trigger--yuichi-jin",
+    "name": "Yuichi Jin",
+    "anime": "World Trigger",
+    "version": "Série",
+    "image": "https://static.wikia.nocookie.net/worldtrigger/images/c/c5/Jin_rostro.png/revision/latest?cb=20150127155355&path-prefix=es",
+    "description": "Black Trigger",
+    "powers": [
+      "Vision du futur",
+      "Black Trigger"
+    ],
+    "stats": {
+      "force": 65,
+      "speed": 80,
+      "abilities": 90,
+      "iq": 92,
+      "durability": 70
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "baki--doppo-orochi",
+    "name": "Doppo Orochi",
+    "anime": "Baki",
+    "version": "Série",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.rA7u-AZhSctsjGf4_P9rvAHaFr?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Karatéka",
+    "powers": [
+      "Karaté",
+      "doppo"
+    ],
+    "stats": {
+      "force": 85,
+      "speed": 78,
+      "abilities": 35,
+      "iq": 60,
+      "durability": 85
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "baki--kaoru-hanayama",
+    "name": "Kaoru Hanayama",
+    "anime": "Baki",
+    "version": "Série",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.av0Uu6v1GiYc2do6AU6xtwHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Yakuza",
+    "powers": [
+      "Force",
+      "combat"
+    ],
+    "stats": {
+      "force": 92,
+      "speed": 70,
+      "abilities": 30,
+      "iq": 50,
+      "durability": 95
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "baki--biscuit-oliva",
+    "name": "Biscuit Oliva",
+    "anime": "Baki",
+    "version": "Série",
+    "image": "https://tse1.explicit.bing.net/th/id/OIP.D3zaHpI7kc6JacWccL1i3wHaGK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Muscle",
+    "powers": [
+      "Force",
+      "muscle"
+    ],
+    "stats": {
+      "force": 98,
+      "speed": 70,
+      "abilities": 30,
+      "iq": 55,
+      "durability": 95
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "mob-psycho-100--ritsu-kageyama",
+    "name": "Ritsu Kageyama",
+    "anime": "Mob Psycho 100",
+    "version": "Série",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.C9aDcUl9vHRPL2xKCGR3nwAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Esprit",
+    "powers": [
+      "Pouvoirs psychiques",
+      "exercice"
+    ],
+    "stats": {
+      "force": 25,
+      "speed": 35,
+      "abilities": 75,
+      "iq": 70,
+      "durability": 25
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "mob-psycho-100--teruki-hanazawa",
+    "name": "Teruki Hanazawa",
+    "anime": "Mob Psycho 100",
+    "version": "Série",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.OUuOy_261FtD-X-mqObyqAHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Esprit",
+    "powers": [
+      "Pouvoirs psychiques",
+      "vitesse"
+    ],
+    "stats": {
+      "force": 55,
+      "speed": 65,
+      "abilities": 85,
+      "iq": 65,
+      "durability": 60
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "mob-psycho-100--dimple-ekubo",
+    "name": "Dimple (Ekubo)",
+    "anime": "Mob Psycho 100",
+    "version": "Série",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.ZdwgnQMlfsNrdjOefhvyQAHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Esprit",
+    "powers": [
+      "Possession",
+      "esprit"
+    ],
+    "stats": {
+      "force": 35,
+      "speed": 45,
+      "abilities": 60,
+      "iq": 45,
+      "durability": 30
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [],
+    "notes": "Estimation initiale (connaissance générale, non sourcée). À vérifier et sourcer avant usage définitif."
+  },
+  {
+    "id": "jojo-s-bizarre-adventure--jonathan-joestar",
+    "name": "Jonathan Joestar",
+    "anime": "JoJo's Bizarre Adventure",
+    "version": "Part 1 (Phantom Blood)",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.mc-pkd20FEbjS5R_E7ydnwHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Héros de Phantom Blood; utilise l’onde (Hamon) et le combat au corps à corps.",
+    "powers": [
+      "Hamon",
+      "force physique",
+      "techniques de respiration"
+    ],
+    "stats": {
+      "force": 82,
+      "speed": 68,
+      "abilities": 76,
+      "iq": 68,
+      "durability": 82
+    },
+    "statStatus": "estimate",
+    "confidence": "medium",
+    "sources": [
+      "https://jojo-portal.com/anime/"
+    ],
+    "notes": "Les faits décrits sont issus de la série/manga officiel. Les notes chiffrées sont des estimations comparatives pour le jeu, pas des statistiques canoniques."
+  },
+  {
+    "id": "jojo-s-bizarre-adventure--jolyne-cujoh",
+    "name": "Jolyne Cujoh",
+    "anime": "JoJo's Bizarre Adventure",
+    "version": "Part 6 (Stone Ocean)",
+    "image": "https://tse1.explicit.bing.net/th/id/OIP.BHfIj-542TJ45LryLf-aWwHaLI?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Utilisatrice de Stone Free, un Stand qui peut transformer son corps en fils et les manipuler.",
+    "powers": [
+      "Stone Free",
+      "corps en fils",
+      "combat tactique"
+    ],
+    "stats": {
+      "force": 78,
+      "speed": 82,
+      "abilities": 86,
+      "iq": 79,
+      "durability": 76
+    },
+    "statStatus": "estimate",
+    "confidence": "medium",
+    "sources": [
+      "https://jojo-portal.com/anime/"
+    ],
+    "notes": "Les faits décrits sont issus de la série/manga officiel. Les notes chiffrées sont des estimations comparatives pour le jeu, pas des statistiques canoniques."
+  },
+  {
+    "id": "jojo-s-bizarre-adventure--johnny-joestar",
+    "name": "Johnny Joestar",
+    "anime": "JoJo's Bizarre Adventure",
+    "version": "Part 7 (Steel Ball Run)",
+    "image": "https://i.pinimg.com/originals/45/cf/f7/45cff74536bba542441d555f9578b521.jpg",
+    "description": "Cavalier et utilisateur de Tusk; son pouvoir évolue autour de la rotation et des ongles projectiles.",
+    "powers": [
+      "Tusk",
+      "rotation",
+      "tir d’ongles"
+    ],
+    "stats": {
+      "force": 75,
+      "speed": 76,
+      "abilities": 93,
+      "iq": 82,
+      "durability": 70
+    },
+    "statStatus": "estimate",
+    "confidence": "medium",
+    "sources": [
+      "https://jojo-portal.com/anime/"
+    ],
+    "notes": "Les faits décrits sont issus de la série/manga officiel. Les notes chiffrées sont des estimations comparatives pour le jeu, pas des statistiques canoniques."
+  },
+  {
+    "id": "jojo-s-bizarre-adventure--josuke-higashikata-gappy",
+    "name": "Josuke Higashikata (Gappy)",
+    "anime": "JoJo's Bizarre Adventure",
+    "version": "Part 8 (JoJolion)",
+    "image": "https://th.bing.com/th/id/OIP.Kln9VQtUJ8rWnzFxLy-kGAHaIY?r=0&o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Personnage de JoJolion, utilisateur de Soft & Wet, dont les bulles peuvent retirer certaines propriétés.",
+    "powers": [
+      "Soft & Wet",
+      "bulles",
+      "vol de propriétés"
+    ],
+    "stats": {
+      "force": 79,
+      "speed": 83,
+      "abilities": 91,
+      "iq": 79,
+      "durability": 75
+    },
+    "statStatus": "estimate",
+    "confidence": "medium",
+    "sources": [
+      "https://jojo-portal.com/anime/"
+    ],
+    "notes": "Les faits décrits sont issus de la série/manga officiel. Les notes chiffrées sont des estimations comparatives pour le jeu, pas des statistiques canoniques."
+  },
+  {
+    "id": "jojo-s-bizarre-adventure--jodio-joestar",
+    "name": "Jodio Joestar",
+    "anime": "JoJo's Bizarre Adventure",
+    "version": "Part 9 (The JOJOLands)",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.mMTIXkdw7UUmOBuYkAX1PQHaKW?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Protagoniste de The JOJOLands, utilisateur du Stand November Rain.",
+    "powers": [
+      "November Rain",
+      "gouttes à forte pression",
+      "combat à distance"
+    ],
+    "stats": {
+      "force": 68,
+      "speed": 74,
+      "abilities": 84,
+      "iq": 82,
+      "durability": 68
+    },
+    "statStatus": "estimate",
+    "confidence": "medium",
+    "sources": [
+      "https://jojo-portal.com/anime/"
+    ],
+    "notes": "Les faits décrits sont issus de la série/manga officiel. Les notes chiffrées sont des estimations comparatives pour le jeu, pas des statistiques canoniques."
+  },
+  {
+    "id": "wind-breaker--haruka-sakura",
+    "name": "Haruka Sakura",
+    "anime": "Wind Breaker",
+    "version": "Saison 1",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.4Den8MbRc5tnhvsx71O_PwHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Combattant de Fûrin qui vise le sommet; excelle dans les affrontements physiques et l’adaptation en combat.",
+    "powers": [
+      "combat au corps à corps",
+      "réflexes",
+      "adaptation"
+    ],
+    "stats": {
+      "force": 84,
+      "speed": 88,
+      "abilities": 72,
+      "iq": 67,
+      "durability": 84
+    },
+    "statStatus": "estimate",
+    "confidence": "medium",
+    "sources": [
+      "https://windbreaker-anime.com/",
+      "https://wb-anime.net/"
+    ],
+    "notes": "Les faits décrits sont issus de la série/manga officiel. Les notes chiffrées sont des estimations comparatives pour le jeu, pas des statistiques canoniques."
+  },
+  {
+    "id": "wind-breaker--kyotaro-sugishita",
+    "name": "Kyotaro Sugishita",
+    "anime": "Wind Breaker",
+    "version": "Saison 1",
+    "image": "https://th.bing.com/th/id/OIP.Milay-gqfnnfgRYadHLk_wHaNK?r=0&o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Combattant de Fûrin connu pour sa puissance et son tempérament imprévisible; très loyal à Umemiya.",
+    "powers": [
+      "puissance physique",
+      "combat au corps à corps"
+    ],
+    "stats": {
+      "force": 88,
+      "speed": 72,
+      "abilities": 68,
+      "iq": 58,
+      "durability": 85
+    },
+    "statStatus": "estimate",
+    "confidence": "medium",
+    "sources": [
+      "https://windbreaker-anime.com/",
+      "https://wb-anime.net/"
+    ],
+    "notes": "Les faits décrits sont issus de la série/manga officiel. Les notes chiffrées sont des estimations comparatives pour le jeu, pas des statistiques canoniques."
+  },
+  {
+    "id": "wind-breaker--hayato-suo",
+    "name": "Hayato Suo",
+    "anime": "Wind Breaker",
+    "version": "Saison 1",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.PCvqIKpxL9V00Hl4rDFm-wHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Combattant calme et énigmatique, avec un style inspiré des arts martiaux et des techniques de contrôle.",
+    "powers": [
+      "arts martiaux",
+      "esquive",
+      "techniques de contrôle"
+    ],
+    "stats": {
+      "force": 72,
+      "speed": 86,
+      "abilities": 87,
+      "iq": 83,
+      "durability": 72
+    },
+    "statStatus": "estimate",
+    "confidence": "medium",
+    "sources": [
+      "https://windbreaker-anime.com/",
+      "https://wb-anime.net/"
+    ],
+    "notes": "Les faits décrits sont issus de la série/manga officiel. Les notes chiffrées sont des estimations comparatives pour le jeu, pas des statistiques canoniques."
+  },
+  {
+    "id": "wind-breaker--hajime-umemiya",
+    "name": "Hajime Umemiya",
+    "anime": "Wind Breaker",
+    "version": "Saison 1",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.CZm1c2p9rMCHL07fCNYMwgAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Chef de Bofûrin, réputé pour sa force, sa ténacité et son charisme.",
+    "powers": [
+      "force physique",
+      "ténacité",
+      "leadership"
+    ],
+    "stats": {
+      "force": 91,
+      "speed": 78,
+      "abilities": 78,
+      "iq": 79,
+      "durability": 91
+    },
+    "statStatus": "estimate",
+    "confidence": "medium",
+    "sources": [
+      "https://windbreaker-anime.com/",
+      "https://wb-anime.net/"
+    ],
+    "notes": "Les faits décrits sont issus de la série/manga officiel. Les notes chiffrées sont des estimations comparatives pour le jeu, pas des statistiques canoniques."
+  },
+  {
+    "id": "wind-breaker--toma-hiragi",
+    "name": "Toma Hiragi",
+    "anime": "Wind Breaker",
+    "version": "Saison 1",
+    "image": "https://static.wikia.nocookie.net/wind-breaker/images/d/d1/Toma_Hiiragi_Anime_character_image.jpg/revision/latest/scale-to-width-down/160?cb=20250126170304&path-prefix=fr",
+    "description": "L’un des Quatre Rois de Bofûrin; combattant expérimenté et responsable de l’équipe Tamon.",
+    "powers": [
+      "arts martiaux",
+      "expérience de combat",
+      "endurance"
+    ],
+    "stats": {
+      "force": 82,
+      "speed": 76,
+      "abilities": 78,
+      "iq": 76,
+      "durability": 82
+    },
+    "statStatus": "estimate",
+    "confidence": "medium",
+    "sources": [
+      "https://windbreaker-anime.com/",
+      "https://wb-anime.net/"
+    ],
+    "notes": "Les faits décrits sont issus de la série/manga officiel. Les notes chiffrées sont des estimations comparatives pour le jeu, pas des statistiques canoniques."
+  },
+  {
+    "id": "wind-breaker--ren-kaji",
+    "name": "Ren Kaji",
+    "anime": "Wind Breaker",
+    "version": "Saison 1",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.LTJf9aogYRpmDZfqKIeojQHaNJ?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Capitaine de classe à Fûrin, réputé pour son calme apparent et ses liens forts avec ses camarades.",
+    "powers": [
+      "combat au corps à corps",
+      "sang-froid"
+    ],
+    "stats": {
+      "force": 80,
+      "speed": 78,
+      "abilities": 72,
+      "iq": 72,
+      "durability": 80
+    },
+    "statStatus": "estimate",
+    "confidence": "medium",
+    "sources": [
+      "https://windbreaker-anime.com/",
+      "https://wb-anime.net/"
+    ],
+    "notes": "Les faits décrits sont issus de la série/manga officiel. Les notes chiffrées sont des estimations comparatives pour le jeu, pas des statistiques canoniques."
+  },
+  {
+    "id": "wind-breaker--taiga-tsugeura",
+    "name": "Taiga Tsugeura",
+    "anime": "Wind Breaker",
+    "version": "Saison 1",
+    "image": "https://tse1.explicit.bing.net/th/id/OIP.3Qftdbf9R_Jm4w70g1_xDgAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Combattant de Fûrin passionné par la musculation et guidé par sa propre conception de la vertu.",
+    "powers": [
+      "force physique",
+      "musculation",
+      "combat au corps à corps"
+    ],
+    "stats": {
+      "force": 83,
+      "speed": 69,
+      "abilities": 65,
+      "iq": 62,
+      "durability": 84
+    },
+    "statStatus": "estimate",
+    "confidence": "medium",
+    "sources": [
+      "https://windbreaker-anime.com/",
+      "https://wb-anime.net/"
+    ],
+    "notes": "Les faits décrits sont issus de la série/manga officiel. Les notes chiffrées sont des estimations comparatives pour le jeu, pas des statistiques canoniques."
+  },
+  {
+    "id": "wind-breaker--mitsuki-kiryu",
+    "name": "Mitsuki Kiryu",
+    "anime": "Wind Breaker",
+    "version": "Saison 1",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.tqSSkrBrLdLHUfKSuP1P4QHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Combattant de Fûrin à l’attitude douce, mais dont les capacités en bagarre sont réelles.",
+    "powers": [
+      "combat au corps à corps",
+      "agilité"
+    ],
+    "stats": {
+      "force": 69,
+      "speed": 81,
+      "abilities": 72,
+      "iq": 72,
+      "durability": 68
+    },
+    "statStatus": "estimate",
+    "confidence": "medium",
+    "sources": [
+      "https://windbreaker-anime.com/",
+      "https://wb-anime.net/"
+    ],
+    "notes": "Les faits décrits sont issus de la série/manga officiel. Les notes chiffrées sont des estimations comparatives pour le jeu, pas des statistiques canoniques."
+  },
+  {
+    "id": "invincible--mark-grayson",
+    "name": "Mark Grayson",
+    "anime": "Invincible",
+    "version": "Série animée — personnage principal",
+    "image": "https://i.pinimg.com/736x/4c/14/a0/4c14a0da3308863ca53bee1451c3e871.jpg",
+    "description": "Humain-Viltrumite connu comme Invincible; possède force, vol, vitesse et résistance surhumaines.",
+    "powers": [
+      "force viltrumite",
+      "vol",
+      "vitesse",
+      "résistance"
+    ],
+    "stats": {
+      "force": 91,
+      "speed": 89,
+      "abilities": 80,
+      "iq": 70,
+      "durability": 94
+    },
+    "statStatus": "estimate",
+    "confidence": "medium",
+    "sources": [
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-3-prime-video",
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-4-prime-video"
+    ],
+    "notes": "Les faits décrits sont issus de la série/manga officiel. Les notes chiffrées sont des estimations comparatives pour le jeu, pas des statistiques canoniques."
+  },
+  {
+    "id": "invincible--nolan-grayson-omni-man",
+    "name": "Nolan Grayson (Omni-Man)",
+    "anime": "Invincible",
+    "version": "Série animée",
+    "image": "https://i.pinimg.com/originals/01/66/f2/0166f2237d6a0d40c62198ba173786b7.jpg",
+    "description": "Viltrumite et père de Mark; possède une force, une vitesse, un vol et une résistance extrêmement élevés.",
+    "powers": [
+      "force viltrumite",
+      "vol",
+      "vitesse",
+      "longévité"
+    ],
+    "stats": {
+      "force": 97,
+      "speed": 94,
+      "abilities": 85,
+      "iq": 83,
+      "durability": 98
+    },
+    "statStatus": "estimate",
+    "confidence": "medium",
+    "sources": [
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-3-prime-video",
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-4-prime-video"
+    ],
+    "notes": "Les faits décrits sont issus de la série/manga officiel. Les notes chiffrées sont des estimations comparatives pour le jeu, pas des statistiques canoniques."
+  },
+  {
+    "id": "invincible--conquest",
+    "name": "Conquest",
+    "anime": "Invincible",
+    "version": "Saison 3",
+    "image": "https://wallpapercave.com/wp/wp15223640.webp",
+    "description": "Vétéran viltrumite extrêmement puissant, envoyé pour soumettre Mark et la Terre.",
+    "powers": [
+      "force viltrumite",
+      "vol",
+      "résistance",
+      "expérience de combat"
+    ],
+    "stats": {
+      "force": 98,
+      "speed": 91,
+      "abilities": 83,
+      "iq": 70,
+      "durability": 99
+    },
+    "statStatus": "estimate",
+    "confidence": "medium",
+    "sources": [
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-3-prime-video",
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-4-prime-video"
+    ],
+    "notes": "Les faits décrits sont issus de la série/manga officiel. Les notes chiffrées sont des estimations comparatives pour le jeu, pas des statistiques canoniques."
+  },
+  {
+    "id": "invincible--atom-eve",
+    "name": "Atom Eve",
+    "anime": "Invincible",
+    "version": "Série animée",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.E8qqSFZ0rz4z0UIuodVD3QHaEy?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Héroïne capable de manipuler la matière et l’énergie à un niveau moléculaire, avec des limites montrées dans la série.",
+    "powers": [
+      "manipulation de la matière",
+      "énergie",
+      "construction de champs"
+    ],
+    "stats": {
+      "force": 68,
+      "speed": 74,
+      "abilities": 98,
+      "iq": 86,
+      "durability": 70
+    },
+    "statStatus": "estimate",
+    "confidence": "medium",
+    "sources": [
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-3-prime-video",
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-4-prime-video"
+    ],
+    "notes": "Les faits décrits sont issus de la série/manga officiel. Les notes chiffrées sont des estimations comparatives pour le jeu, pas des statistiques canoniques."
+  },
+  {
+    "id": "invincible--allen-the-alien",
+    "name": "Allen the Alien",
+    "anime": "Invincible",
+    "version": "Série animée",
+    "image": "https://static.wikia.nocookie.net/aliencharacters/images/d/dc/Allen_the_Alien_S2.png/revision/latest/scale-to-width-down/268?cb=20250316020836",
+    "description": "Agent de l’Union des peuples planétaires, doté d’une force et d’une résistance surhumaines qui augmentent après sa convalescence.",
+    "powers": [
+      "force surhumaine",
+      "résistance",
+      "combat spatial"
+    ],
+    "stats": {
+      "force": 91,
+      "speed": 82,
+      "abilities": 76,
+      "iq": 74,
+      "durability": 94
+    },
+    "statStatus": "estimate",
+    "confidence": "medium",
+    "sources": [
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-3-prime-video",
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-4-prime-video"
+    ],
+    "notes": "Les faits décrits sont issus de la série/manga officiel. Les notes chiffrées sont des estimations comparatives pour le jeu, pas des statistiques canoniques."
+  },
+  {
+    "id": "invincible--battle-beast",
+    "name": "Battle Beast",
+    "anime": "Invincible",
+    "version": "Série animée",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6df83f41-ae35-4de3-aae1-4eb9d87a6782/dg10oms-b0817f71-03ca-455d-bb8f-73a298c3544f.png/v1/fill/w_709,h_1127/battle_beast_render_by_ssundpool_dg10oms-pre.png",
+    "description": "Guerrier extraterrestre qui recherche des adversaires capables de lui offrir un combat difficile.",
+    "powers": [
+      "force physique",
+      "compétences de combat",
+      "résistance"
+    ],
+    "stats": {
+      "force": 97,
+      "speed": 86,
+      "abilities": 82,
+      "iq": 66,
+      "durability": 97
+    },
+    "statStatus": "estimate",
+    "confidence": "medium",
+    "sources": [
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-3-prime-video",
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-4-prime-video"
+    ],
+    "notes": "Les faits décrits sont issus de la série/manga officiel. Les notes chiffrées sont des estimations comparatives pour le jeu, pas des statistiques canoniques."
+  },
+  {
+    "id": "invincible--the-immortal",
+    "name": "The Immortal",
+    "anime": "Invincible",
+    "version": "Série animée",
+    "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2024/12/the-immortal-looking-intensely-at-someone-in-invincible-season-3.jpg?q=49&fit=contain&w=2160&h=1080&dpr=2",
+    "description": "Héros immortel doté de force, de vol et d’une grande expérience du combat.",
+    "powers": [
+      "immortalité",
+      "force surhumaine",
+      "vol"
+    ],
+    "stats": {
+      "force": 83,
+      "speed": 78,
+      "abilities": 72,
+      "iq": 72,
+      "durability": 94
+    },
+    "statStatus": "estimate",
+    "confidence": "medium",
+    "sources": [
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-3-prime-video",
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-4-prime-video"
+    ],
+    "notes": "Les faits décrits sont issus de la série/manga officiel. Les notes chiffrées sont des estimations comparatives pour le jeu, pas des statistiques canoniques."
+  },
+  {
+    "id": "invincible--robot-rudy-connors",
+    "name": "Robot (Rudy Connors)",
+    "anime": "Invincible",
+    "version": "Série animée",
+    "image": "https://tse1.explicit.bing.net/th/id/OIP.uoR1ii_TRB2aCXpUmTxaGgHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Stratège et inventeur qui combat à l’aide de drones, d’armures et de technologies avancées.",
+    "powers": [
+      "ingénierie",
+      "drones",
+      "stratégie"
+    ],
+    "stats": {
+      "force": 54,
+      "speed": 62,
+      "abilities": 88,
+      "iq": 98,
+      "durability": 65
+    },
+    "statStatus": "estimate",
+    "confidence": "medium",
+    "sources": [
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-3-prime-video",
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-4-prime-video"
+    ],
+    "notes": "Les faits décrits sont issus de la série/manga officiel. Les notes chiffrées sont des estimations comparatives pour le jeu, pas des statistiques canoniques."
+  },
+  {
+    "id": "invincible--rex-splode",
+    "name": "Rex Splode",
+    "anime": "Invincible",
+    "version": "Série animée",
+    "image": "https://th.bing.com/th/id/OIP.mRZ-2Qv6sHpdFGpQmGlS3AHaHa?w=174&h=180&c=7&r=0&o=7&pid=1.7&rm=3",
+    "description": "Héros capable de charger des objets d’énergie explosive.",
+    "powers": [
+      "charge explosive",
+      "combat à distance"
+    ],
+    "stats": {
+      "force": 58,
+      "speed": 69,
+      "abilities": 78,
+      "iq": 67,
+      "durability": 58
+    },
+    "statStatus": "estimate",
+    "confidence": "medium",
+    "sources": [
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-3-prime-video",
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-4-prime-video"
+    ],
+    "notes": "Les faits décrits sont issus de la série/manga officiel. Les notes chiffrées sont des estimations comparatives pour le jeu, pas des statistiques canoniques."
+  },
+  {
+    "id": "invincible--monster-girl",
+    "name": "Monster Girl",
+    "anime": "Invincible",
+    "version": "Série animée",
+    "image": "https://assets.mycast.io/actor_images/actor-monster-girl-invincible-325612_small.jpg?1639703282",
+    "description": "Héroïne capable de se transformer en monstre très puissant; la transformation la rajeunit.",
+    "powers": [
+      "transformation",
+      "force accrue",
+      "résistance"
+    ],
+    "stats": {
+      "force": 86,
+      "speed": 72,
+      "abilities": 76,
+      "iq": 70,
+      "durability": 88
+    },
+    "statStatus": "estimate",
+    "confidence": "medium",
+    "sources": [
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-3-prime-video",
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-4-prime-video"
+    ],
+    "notes": "Les faits décrits sont issus de la série/manga officiel. Les notes chiffrées sont des estimations comparatives pour le jeu, pas des statistiques canoniques."
+  },
+  {
+    "id": "invincible--cecil-stedman",
+    "name": "Cecil Stedman",
+    "anime": "Invincible",
+    "version": "Série animée",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.9vFPAdCC95H44M0vZ0ESAwHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Directeur de la GDA, responsable de la coordination des défenses terrestres; s’appuie sur la technologie et le renseignement.",
+    "powers": [
+      "commandement",
+      "renseignement",
+      "technologie GDA"
+    ],
+    "stats": {
+      "force": 25,
+      "speed": 35,
+      "abilities": 65,
+      "iq": 91,
+      "durability": 30
+    },
+    "statStatus": "estimate",
+    "confidence": "medium",
+    "sources": [
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-3-prime-video",
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-4-prime-video"
+    ],
+    "notes": "Les faits décrits sont issus de la série/manga officiel. Les notes chiffrées sont des estimations comparatives pour le jeu, pas des statistiques canoniques."
+  },
+  {
+    "id": "invincible--oliver-grayson",
+    "name": "Oliver Grayson",
+    "anime": "Invincible",
+    "version": "Série animée",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.JrX5uS0KVnp3IKy6YbWnvgHaJz?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Fils de Nolan et demi-frère de Mark, d’origine thraxane et viltrumite; développe des capacités surhumaines.",
+    "powers": [
+      "force surhumaine",
+      "vol",
+      "vitesse"
+    ],
+    "stats": {
+      "force": 83,
+      "speed": 81,
+      "abilities": 70,
+      "iq": 65,
+      "durability": 84
+    },
+    "statStatus": "estimate",
+    "confidence": "medium",
+    "sources": [
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-3-prime-video",
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-4-prime-video"
+    ],
+    "notes": "Les faits décrits sont issus de la série/manga officiel. Les notes chiffrées sont des estimations comparatives pour le jeu, pas des statistiques canoniques."
+  },
+  {
+    "id": "invincible--anissa",
+    "name": "Anissa",
+    "anime": "Invincible",
+    "version": "Série animée",
+    "image": "https://cbub.comicbookuniversebattles.com/static/images/cbub/cbub_contender_image/1/12944/25965.jpg",
+    "description": "Viltrumite chargée d’imposer la volonté de l’Empire; possède les capacités physiques typiques de son espèce.",
+    "powers": [
+      "force viltrumite",
+      "vol",
+      "vitesse",
+      "résistance"
+    ],
+    "stats": {
+      "force": 94,
+      "speed": 92,
+      "abilities": 81,
+      "iq": 78,
+      "durability": 96
+    },
+    "statStatus": "estimate",
+    "confidence": "medium",
+    "sources": [
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-3-prime-video",
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-4-prime-video"
+    ],
+    "notes": "Les faits décrits sont issus de la série/manga officiel. Les notes chiffrées sont des estimations comparatives pour le jeu, pas des statistiques canoniques."
+  },
+  {
+    "id": "invincible--angstrom-levy",
+    "name": "Angstrom Levy",
+    "anime": "Invincible",
+    "version": "Série animée",
+    "image": "https://people.com/thmb/ZXAcPS7hIOO_1R_hAT7tH5Fy9cY=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(686x145:688x147)/invincible-season-4-amazon-angstrom-levy-031325-87482487d2a644069c12c4e14fe6c9ab.jpg",
+    "description": "Antagoniste capable d’ouvrir des portails entre dimensions et de voyager entre les réalités.",
+    "powers": [
+      "portails dimensionnels",
+      "voyage multiversel",
+      "connaissances multiples"
+    ],
+    "stats": {
+      "force": 38,
+      "speed": 48,
+      "abilities": 94,
+      "iq": 92,
+      "durability": 42
+    },
+    "statStatus": "estimate",
+    "confidence": "medium",
+    "sources": [
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-3-prime-video",
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-4-prime-video"
+    ],
+    "notes": "Les faits décrits sont issus de la série/manga officiel. Les notes chiffrées sont des estimations comparatives pour le jeu, pas des statistiques canoniques."
+  },
+  {
+    "id": "invincible--powerplex-scott-duvall",
+    "name": "Powerplex (Scott Duvall)",
+    "anime": "Invincible",
+    "version": "Saison 3",
+    "image": "https://static.tvtropes.org/pmwiki/pub/images/img_2820_3.jpeg",
+    "description": "Antagoniste qui absorbe l’énergie et la convertit en puissance; son conflit avec Mark est personnel.",
+    "powers": [
+      "absorption d’énergie",
+      "décharge d’énergie"
+    ],
+    "stats": {
+      "force": 75,
+      "speed": 65,
+      "abilities": 83,
+      "iq": 74,
+      "durability": 76
+    },
+    "statStatus": "estimate",
+    "confidence": "medium",
+    "sources": [
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-3-prime-video",
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-4-prime-video"
+    ],
+    "notes": "Les faits décrits sont issus de la série/manga officiel. Les notes chiffrées sont des estimations comparatives pour le jeu, pas des statistiques canoniques."
+  },
+  {
+    "id": "invincible--multi-paul",
+    "name": "Multi-Paul",
+    "anime": "Invincible",
+    "version": "Saison 3",
+    "image": "https://static1.personalitydatabase.net/2/pdb-images-prod/a51f3d0c/profile_images/38138c137b6d426f9d6258877f04252c.png",
+    "description": "Personnage capable de créer des duplicatas de lui-même; frère de Dupli-Kate.",
+    "powers": [
+      "duplication",
+      "combat coordonné"
+    ],
+    "stats": {
+      "force": 61,
+      "speed": 67,
+      "abilities": 80,
+      "iq": 66,
+      "durability": 60
+    },
+    "statStatus": "estimate",
+    "confidence": "medium",
+    "sources": [
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-3-prime-video",
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-4-prime-video"
+    ],
+    "notes": "Les faits décrits sont issus de la série/manga officiel. Les notes chiffrées sont des estimations comparatives pour le jeu, pas des statistiques canoniques."
+  },
+  {
+    "id": "invincible--thragg",
+    "name": "Thragg",
+    "anime": "Invincible",
+    "version": "Saison 4",
+    "image": "https://comicbook.com/wp-content/uploads/sites/4/2025/10/Thragg-Invincible-Season-4-TV-Show.jpg?resize=819",
+    "description": "Grand régent viltrumite et adversaire majeur; sa puissance physique est exceptionnelle au sein de l’Empire.",
+    "powers": [
+      "force viltrumite",
+      "vol",
+      "vitesse",
+      "résistance"
+    ],
+    "stats": {
+      "force": 100,
+      "speed": 97,
+      "abilities": 91,
+      "iq": 91,
+      "durability": 100
+    },
+    "statStatus": "estimate",
+    "confidence": "medium",
+    "sources": [
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-3-prime-video",
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-4-prime-video"
+    ],
+    "notes": "Les faits décrits sont issus de la série/manga officiel. Les notes chiffrées sont des estimations comparatives pour le jeu, pas des statistiques canoniques."
+  },
+  {
+    "id": "invincible--dinosaurus",
+    "name": "Dinosaurus",
+    "anime": "Invincible",
+    "version": "Série animée",
+    "image": "https://th.bing.com/th/id/R.90fb2106685b3a8900d3ff8c9d527cd0?rik=KREIc%2btdLKbsng&pid=ImgRaw&r=0",
+    "description": "Personnage capable de prendre une forme reptilienne puissante et doté d’une vision radicale de la manière de sauver la planète.",
+    "powers": [
+      "transformation",
+      "force accrue",
+      "résistance"
+    ],
+    "stats": {
+      "force": 89,
+      "speed": 72,
+      "abilities": 78,
+      "iq": 88,
+      "durability": 90
+    },
+    "statStatus": "estimate",
+    "confidence": "medium",
+    "sources": [
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-3-prime-video",
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-4-prime-video"
+    ],
+    "notes": "Les faits décrits sont issus de la série/manga officiel. Les notes chiffrées sont des estimations comparatives pour le jeu, pas des statistiques canoniques."
+  },
+  {
+    "id": "invincible--universa",
+    "name": "Universa",
+    "anime": "Invincible",
+    "version": "Saison 4",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.XnkTnYdrCdb6DvS2TFHRTAAAAA?r=0&w=185&h=161&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Adversaire extraterrestre dont les capacités reposent sur une technologie et une énergie avancées.",
+    "powers": [
+      "énergie",
+      "technologie extraterrestre"
+    ],
+    "stats": {
+      "force": 80,
+      "speed": 76,
+      "abilities": 88,
+      "iq": 78,
+      "durability": 80
+    },
+    "statStatus": "estimate",
+    "confidence": "medium",
+    "sources": [
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-3-prime-video",
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-4-prime-video"
+    ],
+    "notes": "Les faits décrits sont issus de la série/manga officiel. Les notes chiffrées sont des estimations comparatives pour le jeu, pas des statistiques canoniques."
+  },
+  {
+    "id": "invincible--tech-jacket-zack-thompson",
+    "name": "Tech Jacket (Zack Thompson)",
+    "anime": "Invincible",
+    "version": "Apparition dans la série animée",
+    "image": "https://static.wikia.nocookie.net/p__/images/d/df/Tech_Jacket_Original_Armor.png/revision/latest/scale-to-width-down/268?cb=20251018155125&path-prefix=protagonist",
+    "description": "Humain équipé d’une armure extraterrestre symbiotique qui lui confère vol, protection et armement énergétique.",
+    "powers": [
+      "armure extraterrestre",
+      "vol",
+      "armes énergétiques",
+      "protection"
+    ],
+    "stats": {
+      "force": 82,
+      "speed": 86,
+      "abilities": 88,
+      "iq": 77,
+      "durability": 86
+    },
+    "statStatus": "estimate",
+    "confidence": "medium",
+    "sources": [
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-3-prime-video",
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-4-prime-video"
+    ],
+    "notes": "Les faits décrits sont issus de la série/manga officiel. Les notes chiffrées sont des estimations comparatives pour le jeu, pas des statistiques canoniques."
+  },
+  {
+    "id": "invincible--capevincible",
+    "name": "Capevincible",
+    "anime": "Invincible",
+    "version": "Saison 3 — variante multiverselle de Mark Grayson",
+    "image": "https://i.pinimg.com/736x/9c/fd/41/9cfd4199203228fa85fee6543970e853.jpg",
+    "description": "Mark alternatif au costume noir et jaune avec cape",
+    "powers": [
+      "capacités viltrumites",
+      "vol",
+      "force et résistance surhumaines"
+    ],
+    "stats": {
+      "force": 94,
+      "speed": 91,
+      "abilities": 79,
+      "iq": 68,
+      "durability": 95
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [
+      "https://comicbook.com/anime/news/invincible-season-3-episode-7/",
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-3-prime-video"
+    ],
+    "notes": "Variante visuelle de Mark Grayson montrée dans l’arc animé de la guerre des Invincibles. Les surnoms sont des noms promotionnels/descriptifs rapportés; les notes chiffrées sont des estimations de jeu, pas des valeurs canoniques."
+  },
+  {
+    "id": "invincible--sportvincible",
+    "name": "Sportvincible",
+    "anime": "Invincible",
+    "version": "Saison 3 — variante multiverselle de Mark Grayson",
+    "image": "https://i.pinimg.com/736x/17/03/2f/17032f4e52ca07520eda4709c0eea4ab.jpg",
+    "description": "Mark alternatif au costume d’inspiration sportive",
+    "powers": [
+      "capacités viltrumites",
+      "vol",
+      "force et résistance surhumaines"
+    ],
+    "stats": {
+      "force": 90,
+      "speed": 88,
+      "abilities": 76,
+      "iq": 66,
+      "durability": 91
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [
+      "https://comicbook.com/anime/news/invincible-season-3-episode-7/",
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-3-prime-video"
+    ],
+    "notes": "Variante visuelle de Mark Grayson montrée dans l’arc animé de la guerre des Invincibles. Les surnoms sont des noms promotionnels/descriptifs rapportés; les notes chiffrées sont des estimations de jeu, pas des valeurs canoniques."
+  },
+  {
+    "id": "invincible--prisonincible",
+    "name": "Prisonincible",
+    "anime": "Invincible",
+    "version": "Saison 3 — variante multiverselle de Mark Grayson",
+    "image": "https://i.pinimg.com/736x/82/03/e6/8203e60ab64a6cc0a597c0b6473cfb7f.jpg",
+    "description": "Mark alternatif chauve, marqué, en tenue de prison",
+    "powers": [
+      "capacités viltrumites",
+      "vol",
+      "force et résistance surhumaines"
+    ],
+    "stats": {
+      "force": 90,
+      "speed": 88,
+      "abilities": 76,
+      "iq": 66,
+      "durability": 91
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [
+      "https://comicbook.com/anime/news/invincible-season-3-episode-7/",
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-3-prime-video"
+    ],
+    "notes": "Variante visuelle de Mark Grayson montrée dans l’arc animé de la guerre des Invincibles. Les surnoms sont des noms promotionnels/descriptifs rapportés; les notes chiffrées sont des estimations de jeu, pas des valeurs canoniques."
+  },
+  {
+    "id": "invincible--nogogglesible",
+    "name": "Nogogglesible",
+    "anime": "Invincible",
+    "version": "Saison 3 — variante multiverselle de Mark Grayson",
+    "image": "https://i.pinimg.com/736x/68/3a/3f/683a3fbf47ba0e37b4d6df99be5e4651.jpg",
+    "description": "Mark alternatif masqué sans lunettes",
+    "powers": [
+      "capacités viltrumites",
+      "vol",
+      "force et résistance surhumaines"
+    ],
+    "stats": {
+      "force": 90,
+      "speed": 88,
+      "abilities": 76,
+      "iq": 66,
+      "durability": 91
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [
+      "https://comicbook.com/anime/news/invincible-season-3-episode-7/",
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-3-prime-video"
+    ],
+    "notes": "Variante visuelle de Mark Grayson montrée dans l’arc animé de la guerre des Invincibles. Les surnoms sont des noms promotionnels/descriptifs rapportés; les notes chiffrées sont des estimations de jeu, pas des valeurs canoniques."
+  },
+  {
+    "id": "invincible--flaxancible",
+    "name": "Flaxancible",
+    "anime": "Invincible",
+    "version": "Saison 3 — variante multiverselle de Mark Grayson",
+    "image": "https://i.pinimg.com/736x/41/87/f4/4187f4104b8a19a2b12b6377d1558e60.jpg",
+    "description": "Mark alternatif portant une armure associée aux Flaxans",
+    "powers": [
+      "capacités viltrumites",
+      "vol",
+      "force et résistance surhumaines"
+    ],
+    "stats": {
+      "force": 90,
+      "speed": 88,
+      "abilities": 76,
+      "iq": 66,
+      "durability": 91
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [
+      "https://comicbook.com/anime/news/invincible-season-3-episode-7/",
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-3-prime-video"
+    ],
+    "notes": "Variante visuelle de Mark Grayson montrée dans l’arc animé de la guerre des Invincibles. Les surnoms sont des noms promotionnels/descriptifs rapportés; les notes chiffrées sont des estimations de jeu, pas des valeurs canoniques."
+  },
+  {
+    "id": "invincible--movincihawk",
+    "name": "Movincihawk",
+    "anime": "Invincible",
+    "version": "Saison 3 — variante multiverselle de Mark Grayson",
+    "image": "https://i.pinimg.com/736x/4a/c0/2c/4ac02c133dee0161076d7d8ada220e3f.jpg",
+    "description": "Mark alternatif portant une coupe iroquoise",
+    "powers": [
+      "capacités viltrumites",
+      "vol",
+      "force et résistance surhumaines"
+    ],
+    "stats": {
+      "force": 90,
+      "speed": 88,
+      "abilities": 76,
+      "iq": 66,
+      "durability": 91
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [
+      "https://comicbook.com/anime/news/invincible-season-3-episode-7/",
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-3-prime-video"
+    ],
+    "notes": "Variante visuelle de Mark Grayson montrée dans l’arc animé de la guerre des Invincibles. Les surnoms sont des noms promotionnels/descriptifs rapportés; les notes chiffrées sont des estimations de jeu, pas des valeurs canoniques."
+  },
+  {
+    "id": "invincible--hairvincible",
+    "name": "Hairvincible",
+    "anime": "Invincible",
+    "version": "Saison 3 — variante multiverselle de Mark Grayson",
+    "image": "https://i.pinimg.com/736x/ae/54/61/ae54616965174e1fb011b86090aca760.jpg",
+    "description": "Mark alternatif aux cheveux longs",
+    "powers": [
+      "capacités viltrumites",
+      "vol",
+      "force et résistance surhumaines"
+    ],
+    "stats": {
+      "force": 90,
+      "speed": 88,
+      "abilities": 76,
+      "iq": 66,
+      "durability": 91
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [
+      "https://comicbook.com/anime/news/invincible-season-3-episode-7/",
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-3-prime-video"
+    ],
+    "notes": "Variante visuelle de Mark Grayson montrée dans l’arc animé de la guerre des Invincibles. Les surnoms sont des noms promotionnels/descriptifs rapportés; les notes chiffrées sont des estimations de jeu, pas des valeurs canoniques."
+  },
+  {
+    "id": "invincible--gogglesvincible",
+    "name": "Gogglesvincible",
+    "anime": "Invincible",
+    "version": "Saison 3 — variante multiverselle de Mark Grayson",
+    "image": "https://i.pinimg.com/736x/ca/be/90/cabe90a0c502b21d3401a7104df64191.jpg",
+    "description": "Mark alternatif portant de grandes lunettes",
+    "powers": [
+      "capacités viltrumites",
+      "vol",
+      "force et résistance surhumaines"
+    ],
+    "stats": {
+      "force": 90,
+      "speed": 88,
+      "abilities": 76,
+      "iq": 66,
+      "durability": 91
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [
+      "https://comicbook.com/anime/news/invincible-season-3-episode-7/",
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-3-prime-video"
+    ],
+    "notes": "Variante visuelle de Mark Grayson montrée dans l’arc animé de la guerre des Invincibles. Les surnoms sont des noms promotionnels/descriptifs rapportés; les notes chiffrées sont des estimations de jeu, pas des valeurs canoniques."
+  },
+  {
+    "id": "invincible--capvincible",
+    "name": "Capvincible",
+    "anime": "Invincible",
+    "version": "Saison 3 — variante multiverselle de Mark Grayson",
+    "image": "https://i.pinimg.com/736x/f3/c7/4d/f3c74dae20c8ae28dc81292770654673.jpg",
+    "description": "Mark alternatif avec une coiffe/capuche bleue",
+    "powers": [
+      "capacités viltrumites",
+      "vol",
+      "force et résistance surhumaines"
+    ],
+    "stats": {
+      "force": 90,
+      "speed": 88,
+      "abilities": 76,
+      "iq": 66,
+      "durability": 91
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [
+      "https://comicbook.com/anime/news/invincible-season-3-episode-7/",
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-3-prime-video"
+    ],
+    "notes": "Variante visuelle de Mark Grayson montrée dans l’arc animé de la guerre des Invincibles. Les surnoms sont des noms promotionnels/descriptifs rapportés; les notes chiffrées sont des estimations de jeu, pas des valeurs canoniques."
+  },
+  {
+    "id": "invincible--nomaskible",
+    "name": "Nomaskible",
+    "anime": "Invincible",
+    "version": "Saison 3 — variante multiverselle de Mark Grayson",
+    "image": "https://i.pinimg.com/736x/6c/c7/00/6cc7009ffa3265e0bb1344deb790fbfa.jpg",
+    "description": "Mark alternatif sans masque",
+    "powers": [
+      "capacités viltrumites",
+      "vol",
+      "force et résistance surhumaines"
+    ],
+    "stats": {
+      "force": 90,
+      "speed": 88,
+      "abilities": 76,
+      "iq": 66,
+      "durability": 91
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [
+      "https://comicbook.com/anime/news/invincible-season-3-episode-7/",
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-3-prime-video"
+    ],
+    "notes": "Variante visuelle de Mark Grayson montrée dans l’arc animé de la guerre des Invincibles. Les surnoms sont des noms promotionnels/descriptifs rapportés; les notes chiffrées sont des estimations de jeu, pas des valeurs canoniques."
+  },
+  {
+    "id": "invincible--maskvincible",
+    "name": "Maskvincible",
+    "anime": "Invincible",
+    "version": "Saison 3 — variante multiverselle de Mark Grayson",
+    "image": "https://i.pinimg.com/736x/cf/3d/3e/cf3d3ee03929163ed94e61382b2a6ecf.jpg",
+    "description": "Mark alternatif entièrement masqué",
+    "powers": [
+      "capacités viltrumites",
+      "vol",
+      "force et résistance surhumaines"
+    ],
+    "stats": {
+      "force": 90,
+      "speed": 88,
+      "abilities": 76,
+      "iq": 66,
+      "durability": 91
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [
+      "https://comicbook.com/anime/news/invincible-season-3-episode-7/",
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-3-prime-video"
+    ],
+    "notes": "Variante visuelle de Mark Grayson montrée dans l’arc animé de la guerre des Invincibles. Les surnoms sont des noms promotionnels/descriptifs rapportés; les notes chiffrées sont des estimations de jeu, pas des valeurs canoniques."
+  },
+  {
+    "id": "invincible--mustachible",
+    "name": "Mustachible",
+    "anime": "Invincible",
+    "version": "Saison 3 — variante multiverselle de Mark Grayson",
+    "image": "https://i.pinimg.com/736x/49/ca/75/49ca75e9d073794e327c22c7dd4a036a.jpg",
+    "description": "Mark alternatif avec moustache",
+    "powers": [
+      "capacités viltrumites",
+      "vol",
+      "force et résistance surhumaines"
+    ],
+    "stats": {
+      "force": 90,
+      "speed": 88,
+      "abilities": 76,
+      "iq": 66,
+      "durability": 91
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [
+      "https://comicbook.com/anime/news/invincible-season-3-episode-7/",
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-3-prime-video"
+    ],
+    "notes": "Variante visuelle de Mark Grayson montrée dans l’arc animé de la guerre des Invincibles. Les surnoms sont des noms promotionnels/descriptifs rapportés; les notes chiffrées sont des estimations de jeu, pas des valeurs canoniques."
+  },
+  {
+    "id": "invincible--hoodvincible",
+    "name": "Hoodvincible",
+    "anime": "Invincible",
+    "version": "Saison 3 — variante multiverselle de Mark Grayson",
+    "image": "https://i.pinimg.com/736x/69/d4/2c/69d42c80f11d080fcce3f6b2a970372d.jpg",
+    "description": "Mark alternatif portant une capuche",
+    "powers": [
+      "capacités viltrumites",
+      "vol",
+      "force et résistance surhumaines"
+    ],
+    "stats": {
+      "force": 90,
+      "speed": 88,
+      "abilities": 76,
+      "iq": 66,
+      "durability": 91
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [
+      "https://comicbook.com/anime/news/invincible-season-3-episode-7/",
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-3-prime-video"
+    ],
+    "notes": "Variante visuelle de Mark Grayson montrée dans l’arc animé de la guerre des Invincibles. Les surnoms sont des noms promotionnels/descriptifs rapportés; les notes chiffrées sont des estimations de jeu, pas des valeurs canoniques."
+  },
+  {
+    "id": "invincible--omnivincible",
+    "name": "Omnivincible",
+    "anime": "Invincible",
+    "version": "Saison 3 — variante multiverselle de Mark Grayson",
+    "image": "https://i.pinimg.com/1200x/29/ae/3b/29ae3bae714674dcb18cda46621b183e.jpg",
+    "description": "Mark alternatif au costume inspiré d’Omni-Man",
+    "powers": [
+      "capacités viltrumites",
+      "vol",
+      "force et résistance surhumaines"
+    ],
+    "stats": {
+      "force": 94,
+      "speed": 91,
+      "abilities": 79,
+      "iq": 68,
+      "durability": 95
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [
+      "https://comicbook.com/anime/news/invincible-season-3-episode-7/",
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-3-prime-video"
+    ],
+    "notes": "Variante visuelle de Mark Grayson montrée dans l’arc animé de la guerre des Invincibles. Les surnoms sont des noms promotionnels/descriptifs rapportés; les notes chiffrées sont des estimations de jeu, pas des valeurs canoniques."
+  },
+  {
+    "id": "invincible--viltrumincible",
+    "name": "Viltrumincible",
+    "anime": "Invincible",
+    "version": "Saison 3 — variante multiverselle de Mark Grayson",
+    "image": "https://i.pinimg.com/736x/60/45/f6/6045f672e9edb3fe09c7cc93bdb563ae.jpg",
+    "description": "Mark alternatif au costume de l’Empire viltrumite",
+    "powers": [
+      "capacités viltrumites",
+      "vol",
+      "force et résistance surhumaines"
+    ],
+    "stats": {
+      "force": 94,
+      "speed": 91,
+      "abilities": 79,
+      "iq": 68,
+      "durability": 95
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [
+      "https://comicbook.com/anime/news/invincible-season-3-episode-7/",
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-3-prime-video"
+    ],
+    "notes": "Variante visuelle de Mark Grayson montrée dans l’arc animé de la guerre des Invincibles. Les surnoms sont des noms promotionnels/descriptifs rapportés; les notes chiffrées sont des estimations de jeu, pas des valeurs canoniques."
+  },
+  {
+    "id": "invincible--bulletproofible",
+    "name": "Bulletproofible",
+    "anime": "Invincible",
+    "version": "Saison 3 — variante multiverselle de Mark Grayson",
+    "image": "https://i.pinimg.com/736x/89/0e/16/890e16dad5b82690be0d37dc1693e9c9.jpg",
+    "description": "Mark alternatif au costume inspiré de Bulletproof",
+    "powers": [
+      "capacités viltrumites",
+      "vol",
+      "force et résistance surhumaines"
+    ],
+    "stats": {
+      "force": 90,
+      "speed": 88,
+      "abilities": 76,
+      "iq": 66,
+      "durability": 91
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [
+      "https://comicbook.com/anime/news/invincible-season-3-episode-7/",
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-3-prime-video"
+    ],
+    "notes": "Variante visuelle de Mark Grayson montrée dans l’arc animé de la guerre des Invincibles. Les surnoms sont des noms promotionnels/descriptifs rapportés; les notes chiffrées sont des estimations de jeu, pas des valeurs canoniques."
+  },
+  {
+    "id": "invincible--lightblueincible",
+    "name": "Lightblueincible",
+    "anime": "Invincible",
+    "version": "Saison 3 — variante multiverselle de Mark Grayson",
+    "image": "https://i.pinimg.com/736x/45/13/c1/4513c1634b6d0b87910a8e72a92f9e70.jpg",
+    "description": "Mark alternatif au costume bleu clair",
+    "powers": [
+      "capacités viltrumites",
+      "vol",
+      "force et résistance surhumaines"
+    ],
+    "stats": {
+      "force": 90,
+      "speed": 88,
+      "abilities": 76,
+      "iq": 66,
+      "durability": 91
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [
+      "https://comicbook.com/anime/news/invincible-season-3-episode-7/",
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-3-prime-video"
+    ],
+    "notes": "Variante visuelle de Mark Grayson montrée dans l’arc animé de la guerre des Invincibles. Les surnoms sont des noms promotionnels/descriptifs rapportés; les notes chiffrées sont des estimations de jeu, pas des valeurs canoniques."
+  },
+  {
+    "id": "invincible--stripevincible",
+    "name": "Stripevincible",
+    "anime": "Invincible",
+    "version": "Saison 3 — variante multiverselle de Mark Grayson",
+    "image": "https://i.pinimg.com/736x/61/a6/cc/61a6cc1c4132649b0995a405982b61ec.jpg",
+    "description": "Mark alternatif au costume avec une bande jaune",
+    "powers": [
+      "capacités viltrumites",
+      "vol",
+      "force et résistance surhumaines"
+    ],
+    "stats": {
+      "force": 90,
+      "speed": 88,
+      "abilities": 76,
+      "iq": 66,
+      "durability": 91
+    },
+    "statStatus": "estimate",
+    "confidence": "low",
+    "sources": [
+      "https://comicbook.com/anime/news/invincible-season-3-episode-7/",
+      "https://www.aboutamazon.com/news/entertainment/invincible-season-3-prime-video"
+    ],
+    "notes": "Variante visuelle de Mark Grayson montrée dans l’arc animé de la guerre des Invincibles. Les surnoms sont des noms promotionnels/descriptifs rapportés; les notes chiffrées sont des estimations de jeu, pas des valeurs canoniques."
+  }
+]
